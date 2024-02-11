@@ -2,7 +2,9 @@
 
 ## What is machine learning?
 
-![alt text](resources/questions/01.png)
+- Q:
+
+  ![alt text](resources/questions/01.png)
 
 - Machine learning algorithms
 
@@ -16,6 +18,7 @@
   - **Reinforcement learning**: Course 3
 
 > [!IMPORTANT]
+>
 > Practical advice for applying learning algorithms
 
 ## Supervised learning part 1
@@ -42,6 +45,7 @@
 - **Classification**: Breast cancer detection
 
   ![alt text](resources/notes/02.jpg)
+
   ![alt text](resources/notes/03.jpg)
 
 - Two or more inputs
@@ -62,7 +66,9 @@
 >   - predict **categories** (= **classes**)
 >   - (from) **small number** of possible outputs
 
-![alt text](resources/questions/02.png)
+- Q:
+
+  ![alt text](resources/questions/02.png)
 
 ## Unsupervised learning part 1
 
