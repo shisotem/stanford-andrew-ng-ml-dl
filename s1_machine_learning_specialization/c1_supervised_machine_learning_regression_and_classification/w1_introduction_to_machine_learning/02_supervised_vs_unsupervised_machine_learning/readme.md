@@ -33,11 +33,24 @@
 | image, radar info | position of other cars | self-driving car    |
 | image of phone    | defect? (0/1)          | visual inspection   |
 
-- Regression: Housing price prediction
-
-![alt text](resources/notes/01.jpg)
+- **Regression**: Housing price prediction
+  ![alt text](resources/notes/01.jpg)
 
 ## Supervised learning part 2
+
+- **Classification**: Breast cancer detection
+  ![alt text](resources/notes/02.jpg)
+  ![alt text](resources/notes/03.jpg)
+
+- Two or more inputs
+  ![alt text](resources/notes/04.jpg)
+
+> [!IMPORTANT]
+>
+> **Supervised learning**:
+> ![alt text](resources/notes/05.jpg)
+
+![alt text](resources/questions/02.png)
 
 ## Unsupervised learning part 1
 
