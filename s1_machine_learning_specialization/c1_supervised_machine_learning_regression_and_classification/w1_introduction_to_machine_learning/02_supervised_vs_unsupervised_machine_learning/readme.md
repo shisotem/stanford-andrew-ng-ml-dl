@@ -20,6 +20,23 @@
 
 ## Supervised learning part 1
 
+- I think **99 percent** of the economic value created by machine learning today is through one type of machine learning, which is called **supervised learning**.
+
+- Learns from **being given "right answers"**
+
+| Input (X)         | Output (Y)             | Application         |
+| ----------------- | ---------------------- | ------------------- |
+| email             | spam? (0/1)            | spam filtering      |
+| audio             | text transcripts       | speech recognition  |
+| English           | Japanese               | machine translation |
+| ad, user info     | click? (0/1)           | online advertising  |
+| image, radar info | position of other cars | self-driving car    |
+| image of phone    | defect? (0/1)          | visual inspection   |
+
+- Regression: Housing price prediction
+
+![alt text](resources/notes/01.jpg)
+
 ## Supervised learning part 2
 
 ## Unsupervised learning part 1
