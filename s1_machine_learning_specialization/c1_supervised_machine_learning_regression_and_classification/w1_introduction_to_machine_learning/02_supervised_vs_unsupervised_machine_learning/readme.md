@@ -50,9 +50,17 @@
 
 > [!IMPORTANT]
 >
-> **Supervised learning**:
+> **Supervised learning**: Learns from **being given "right answers"**
 >
-> ![alt text](resources/notes/05.jpg)
+> - **Regression**
+>
+>   - predict a **number**
+>   - (from) **infinitely** many possible outputs
+>
+> - **Classification**
+>
+>   - predict **categories** (= **classes**)
+>   - (from) **small number** of possible outputs
 
 ![alt text](resources/questions/02.png)
 
