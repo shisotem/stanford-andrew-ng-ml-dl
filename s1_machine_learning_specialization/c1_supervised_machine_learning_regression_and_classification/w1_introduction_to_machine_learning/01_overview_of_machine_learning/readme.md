@@ -9,3 +9,7 @@
 - `AGI`: Artificial General Intelligence
 
 - I think there could be even vastly greater value that has yet to be created outside the software industry in sectors such as retail, travel, transportation, automotive, materials manufacturing, and so on.
+
+## Intake Survey
+
+## [IMPORTANT] Have questions, issues or ideas? Join our Forum!
