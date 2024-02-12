@@ -12,17 +12,14 @@
   - (x, y) = single training example
   - (x<sup>(i)</sup>, y<sup>(i)</sup>) = i<sup>th</sup> training example
 
-- e.g.:
-
   ![alt text](resources/notes/01.jpg)
-
-  - m = 18
 
   - x<sup>(1)</sup> = 2502
   - y<sup>(1)</sup> = 280
 
-  - (x<sup>(1)</sup>, y<sup>(1)</sup>) = (2502, 280)
+  - m = 18
 
+  - (x<sup>(1)</sup>, y<sup>(1)</sup>) = (2502, 280)
   - x<sup>(2)</sup> = 1010
     - x<sup>(2)</sup> ≠ x<sup>2</sup> ... not exponent!
 
