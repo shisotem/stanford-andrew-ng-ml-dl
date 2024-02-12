@@ -88,6 +88,23 @@
 
 ## Unsupervised learning part 2
 
+> [!IMPORTANT]
+>
+> **Unsupervised learning**:
+>
+> Data only comes with inputs x, but **not output labels y**.  
+> Algorithm has to find **structure** in the data.
+>
+> - **Clustering**: Group similar data points together.
+>
+> - **Anomaly detection**: Find unusual data points.
+>
+> - **Dimensionality reduction**: Compress data using fewer numbers.
+
+- Q:
+
+  ![alt text](resources/questions/03.png)
+
 ## Jupyter Notebooks
 
 ## Python and Jupyter Notebooks
