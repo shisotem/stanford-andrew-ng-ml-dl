@@ -12,6 +12,8 @@
   - (x, y) = single training example
   - (x<sup>(i)</sup>, y<sup>(i)</sup>) = i<sup>th</sup> training example
 
+- e.g.:
+
   ![alt text](resources/notes/01.jpg)
 
   - x<sup>(1)</sup> = 2502
