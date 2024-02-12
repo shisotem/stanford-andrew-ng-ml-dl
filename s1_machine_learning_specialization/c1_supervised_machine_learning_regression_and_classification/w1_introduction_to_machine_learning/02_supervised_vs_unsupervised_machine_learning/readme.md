@@ -72,6 +72,20 @@
 
 ## Unsupervised learning part 1
 
+- (L) Supervised learning Learn from data **labeled** with the "**right answers**"
+
+- (R) **Un**supervised learning: Find something interesting in **unlabeled** data.
+
+  ![alt text](resources/notes/05.jpg)
+
+- **Clustering**
+
+  - Google news
+  - Grouping customers
+  - DNA microarray
+
+  ![alt text](resources/notes/06.jpg)
+
 ## Unsupervised learning part 2
 
 ## Jupyter Notebooks
