@@ -72,7 +72,7 @@
 
 ## Unsupervised learning part 1
 
-- (L) Supervised learning Learn from data **labeled** with the "**right answers**"
+- (L) Supervised learning: Learn from data **labeled** with the "**right answers**"
 
 - (R) **Un**supervised learning: Find something interesting in **unlabeled** data.
 
