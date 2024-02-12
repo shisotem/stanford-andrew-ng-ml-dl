@@ -27,6 +27,14 @@
 
 ## Linear regression model part 2
 
+- The process of how supervised learning works:
+
+  ![alt text](resources/notes/02.jpg)
+
+- Q:
+
+  ![alt text](resources/questions/01.png)
+
 ## Optional lab: Model representation
 
 ## Cost function formula
