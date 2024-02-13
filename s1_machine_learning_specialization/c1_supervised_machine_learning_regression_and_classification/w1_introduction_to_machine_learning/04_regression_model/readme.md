@@ -39,6 +39,26 @@
 
 ## Cost function formula
 
+- Model: **f<sub>w,b</sub>**(x) = **w**x + **b**
+
+  - **w, b**: **parameters** (coefficients, weights)
+
+  ![alt text](resources/notes/03.jpg)
+
+- Cost function: **J(w, b)**
+
+  - **1 / m**: To build a cost function that doesn't automatically get bigger as the training set size gets larger (by convention)
+
+  - The extra division by **2** is just meant to make some of our later calculations **look neater**.
+
+  - Eventually we're going to want to find values of **w** and **b** that make the **cost function small**.
+
+  ![alt text](resources/notes/04.jpg)
+
+- Q:
+
+  ![alt text](resources/questions/02.png)
+
 ## Cost function intuition
 
 ## Visualizing the cost function
