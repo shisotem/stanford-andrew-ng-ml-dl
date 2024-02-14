@@ -99,6 +99,20 @@
 
 ## Visualizing the cost function
 
+- General case:
+
+  - Model: f<sub>w,b</sub>(x) = wx + b
+
+  - Parameters: w, b
+
+  - Cost function: J(w, b) = (1 / 2m) \* Σ<sub>i=1</sub><sup>m</sup> (f<sub>w,b</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>)<sup>2</sup>
+
+  - Goal: minimize<sub>w, b</sub> J(w, b)
+
+- Relationship between w, b, f<sub>w,b</sub>(x) and J(w, b):
+
+  ![alt text](resources/notes/07.jpg)
+
 ## Visualization examples
 
 ## Optional lab: Cost function
