@@ -61,6 +61,42 @@
 
 ## Cost function intuition
 
+- General case:
+
+  - Model: f<sub>w,b</sub>(x) = wx + b
+
+  - Parameters: w, b
+
+  - Cost function: J(w, b) = (1 / 2m) \* Σ<sub>i=1</sub><sup>m</sup> (f<sub>w,b</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>)<sup>2</sup>
+
+  - Goal: **minimize<sub>w, b</sub> J(w, b)**
+
+    - Find the values of w, and b that minimize the cost function (to get the best fit line)
+
+- Simplified case (b = ø):
+
+  - f<sub>w</sub>(x) = wx
+
+  - w
+
+  - J(**w**) = (1 / 2m) \* Σ<sub>i=1</sub><sup>m</sup> (f<sub>**w**</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>)<sup>2</sup>
+
+    - (= (1 / 2m) \* Σ<sub>i=1</sub><sup>m</sup> (**w**x<sup>(i)</sup> - y<sup>(i)</sup>)<sup>2</sup>)
+
+  - minimize<sub>w</sub> J(w)
+
+  ![alt text](resources/notes/05.jpg)
+
+- Relationship between w, f<sub>w</sub>(x), and J(w):
+
+  - Choosing a value for the parameter **w** specifies **a line function f(x)** on the left graph and **a single point** on the right graph.
+
+  ![alt text](resources/notes/06.jpg)
+
+- Q:
+
+  ![alt text](resources/questions/03.png)
+
 ## Visualizing the cost function
 
 ## Visualization examples
