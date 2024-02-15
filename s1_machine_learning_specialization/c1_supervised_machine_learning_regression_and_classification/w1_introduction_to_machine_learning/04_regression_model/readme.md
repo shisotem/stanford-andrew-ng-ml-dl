@@ -119,6 +119,8 @@
 
   ![alt text](resources/notes/08.jpg)
 
-- In linear regression, manually reading a contour plot to find the best values for parameters **w** and **b** is not efficient or scalable for complex machine learning models. Instead, an algorithmic approach, such as **gradient descent**, is preferred for automatically finding these values that **minimize** the cost function **J**. Gradient descent is a crucial algorithm in machine learning.
+- In linear regression, manually reading a contour plot to find the best values for parameters **w** and **b** is not efficient or scalable for complex machine learning models. Instead, an algorithmic approach, such as **gradient descent**, is preferred for automatically finding these values that **minimize** the cost function **J**.
+
+- Gradient descent is a crucial algorithm not only in linear regression, but also across **all areas of machine learning**.
 
 ## Optional lab: Cost function
