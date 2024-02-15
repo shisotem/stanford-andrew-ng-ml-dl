@@ -115,4 +115,10 @@
 
 ## Visualization examples
 
+- minimize<sub>w, b</sub> J(w, b):
+
+  ![alt text](resources/notes/08.jpg)
+
+- In linear regression, manually reading a contour plot to find the best values for parameters **w** and **b** is not efficient or scalable for complex machine learning models. Instead, an algorithmic approach, such as **gradient descent**, is preferred for automatically finding these values that **minimize** the cost function **J**. Gradient descent is a crucial algorithm in machine learning.
+
 ## Optional lab: Cost function
