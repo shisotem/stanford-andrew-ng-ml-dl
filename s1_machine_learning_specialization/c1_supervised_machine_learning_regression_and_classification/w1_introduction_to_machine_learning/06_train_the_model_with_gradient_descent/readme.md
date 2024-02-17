@@ -83,6 +83,12 @@
 
 ## Gradient descent for linear regression
 
+- Gradient descent for linear regression:
+
+  ![alt text](resources/notes/07.jpg)
+
+  ![alt text](resources/notes/08.jpg)
+
 ## Running gradient descent
 
 ## Optional lab: Gradient descent
