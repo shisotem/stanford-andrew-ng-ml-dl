@@ -73,7 +73,7 @@
 
     - Find the values of w, and b that minimize the cost function (to get the best fit line)
 
-- Simplified case (b = ø):
+- Simplified case (b = 0):
 
   - f<sub>w</sub>(x) = wx
 

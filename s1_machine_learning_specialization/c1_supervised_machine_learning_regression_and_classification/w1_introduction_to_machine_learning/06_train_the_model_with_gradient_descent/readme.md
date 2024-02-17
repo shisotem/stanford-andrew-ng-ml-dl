@@ -44,6 +44,20 @@
 
 ## Gradient descent intuition
 
+- Simplified case(b = ø or fixed):
+
+  - J(w)
+
+  - w = w - &alpha; \* dJ(w) / dw
+
+  - min<sub>w</sub> J(w)
+
+  ![alt text](resources/notes/03.jpg)
+
+- Q:
+
+  ![alt text](resources/questions/02.png)
+
 ## Learning rate
 
 ## Gradient descent for linear regression
