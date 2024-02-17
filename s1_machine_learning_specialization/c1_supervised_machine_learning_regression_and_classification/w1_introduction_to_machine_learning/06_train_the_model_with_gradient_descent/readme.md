@@ -1,5 +1,7 @@
 # Train the model with gradient descent
 
+## Gradient descent
+
 - Gradient descent is a **crucial** algorithm not only in linear regression, but also across **all areas of machine learning** (including deep learning).
 
 - Gradient descent is an optimization algorithm that you can use to try to **minimize any function**, not just a cost function for linear regression.
@@ -22,9 +24,21 @@
 
   ![alt text](resources/notes/01.jpg)
 
-## Gradient descent
-
 ## Implementing gradient descent
+
+- **Gradient descent algorithm**:
+
+  - **Learning rate**: Determines the **step size** during each iteration of gradient descent.
+
+  - **Derivative**: Indicates the **direction** of the steepest ascent. Gradient descent moves in the opposite direction, i.e., the direction of the steepest descent.
+
+  - Convergence refers to reaching a **local minimum** where parameters w and b barely change with additional steps taken.
+
+  ![alt text](resources/notes/02.jpg)
+
+- Q:
+
+  ![alt text](resources/questions/01.png)
 
 ## Gradient descent intuition
 
