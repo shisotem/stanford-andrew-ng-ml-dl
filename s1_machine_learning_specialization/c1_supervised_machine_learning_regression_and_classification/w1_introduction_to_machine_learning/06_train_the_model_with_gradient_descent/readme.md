@@ -60,6 +60,16 @@
 
 ## Learning rate
 
+- w = w - &alpha; \* dJ(w) / dw
+
+  - If &alpha; is too **small**, gradient descent may be **slow**.
+
+  - If &alpha; is too **large**, gradient descent may:
+    - **Overshoot**, never reach minimum
+    - Fail to converge, **diverge**
+
+  ![alt text](resources/notes/04.jpg)
+
 ## Gradient descent for linear regression
 
 ## Running gradient descent
