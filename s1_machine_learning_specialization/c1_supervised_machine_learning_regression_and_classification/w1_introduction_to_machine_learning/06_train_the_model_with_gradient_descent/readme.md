@@ -32,7 +32,7 @@
 
   - **Derivative**: Indicates the **direction** of the steepest ascent. Gradient descent moves in the opposite direction, i.e., the direction of the steepest descent.
 
-  - In locations where the gradient (dJ(w) / dw) is large, the parameter update (α \* dJ(w) / dw) is also large.
+  - In locations where the gradient (dJ(w) / dw) is large, the parameter update size (α \* dJ(w) / dw) is also large.
 
   - Convergence refers to reaching a **local minimum** where parameters w and b barely change with additional steps taken.
 
