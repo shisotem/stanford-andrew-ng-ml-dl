@@ -54,6 +54,8 @@
 
   ![alt text](resources/notes/03.jpg)
 
+  ![alt text](resources/notes/05.jpg)
+
 - Q:
 
   ![alt text](resources/questions/02.png)
@@ -69,6 +71,15 @@
     - Fail to converge, **diverge**
 
   ![alt text](resources/notes/04.jpg)
+
+- Can reach local minimum without decreasing learning rate &alpha;.
+
+  - Near a local minimum,
+
+    - **Derivative** becomes smaller
+    - **Update steps** become smaller
+
+  ![alt text](resources/notes/06.jpg)
 
 ## Gradient descent for linear regression
 
