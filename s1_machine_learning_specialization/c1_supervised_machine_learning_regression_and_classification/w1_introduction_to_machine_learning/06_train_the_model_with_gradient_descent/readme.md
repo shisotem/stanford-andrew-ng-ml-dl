@@ -89,6 +89,20 @@
 
   ![alt text](resources/notes/08.jpg)
 
+- Issues with Gradient Descent:
+
+  - Depending on the **initial guesses**, it may converge to a local minimum that is **not** the **global minimum**.
+
+- **Convex Function**:
+
+  - The **squared error cost** function is **always** a convex function.
+
+  - This type of function cannot have any local minimum other than the **single global minimum**.
+
+  - So, implementing gradient descent on a convex function has a beneficial property: if the learning rate is chosen correctly, it will always converge to the global minimum.
+
+  ![alt text](resources/notes/09.jpg)
+
 ## Running gradient descent
 
 ## Optional lab: Gradient descent
