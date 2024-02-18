@@ -105,4 +105,14 @@
 
 ## Running gradient descent
 
+- The model f(x), obtained after applying gradient descent, can be used to predict the price of new houses.
+
+  ![alt text](resources/notes/10.png)
+
+- To be more precise, the gradient descent process we've discussed so far is called **"batch" gradient descent**.
+
+  - **"batch"**: Each step of gradient descent uses **all** the training examples.
+
+  - (&harr; other gradient descent: subsets)
+
 ## Optional lab: Gradient descent
