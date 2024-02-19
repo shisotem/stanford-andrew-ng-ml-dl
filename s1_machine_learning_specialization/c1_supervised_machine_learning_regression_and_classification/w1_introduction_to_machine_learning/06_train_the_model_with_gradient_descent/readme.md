@@ -44,7 +44,7 @@
 
 ## Gradient descent intuition
 
-- Simplified case(b = ø or fixed):
+- Simplified case(b = ø or <a href="https://github.com/shisotem/stanford-andrew-ng-ml-dl/blob/main/s1_machine_learning_specialization/c1_supervised_machine_learning_regression_and_classification/w1_introduction_to_machine_learning/06_train_the_model_with_gradient_descent/resources/notes/01.jpg">fixed<a>):
 
   - J(w)
 
