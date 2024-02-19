@@ -111,7 +111,7 @@
 
 - To be more precise, the gradient descent process we've discussed so far is called **"batch" gradient descent**.
 
-  - **"batch"**: Each step of gradient descent uses **all** the training examples.
+  - **"batch"**: Each step of gradient descent uses **all** the training examples (w = w - α \* (1 / m) \* **&Sigma;<sub>i=1</sub><sup>m</sup>** (f<sub>w,b</sub>(x<sup>(i)</sup>) - y<sup>(i)</sup>) \* x<sup>(i)</sup>)
 
   - (&harr; other gradient descent: subsets)
 
