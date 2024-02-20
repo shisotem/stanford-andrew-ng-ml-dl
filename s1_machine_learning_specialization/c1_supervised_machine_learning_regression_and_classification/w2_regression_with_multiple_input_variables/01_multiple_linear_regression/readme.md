@@ -2,6 +2,14 @@
 
 ## Multiple features
 
+- (Review) Univariate linear regression
+
+  ![alt text](resources/notes/01.png)
+
+- Multiple linear regression & Notation
+
+  ![alt text](resources/notes/02.png)
+
 ## Vectorization part 1
 
 ## Vectorization part 2
