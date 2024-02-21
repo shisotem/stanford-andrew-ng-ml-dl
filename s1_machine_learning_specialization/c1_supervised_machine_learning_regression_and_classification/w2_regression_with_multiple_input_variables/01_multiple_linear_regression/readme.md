@@ -32,6 +32,22 @@
 
 ## Vectorization part 1
 
+- Learning how to write **vectorized** code will allow you to also take advantage of modern numerical **linear algebra libraries**, as well as possibly even **GPU** hardware.
+
+- Two distinct benefits of vectorization:
+
+  - It makes code **shorter**.
+
+  - It also results in your code running much **faster** than non-vectorized implementations. This is because functions like NumPy's dot product can utilize **parallel hardware** in your computer, whether you're running this on a standard **CPU** or a **GPU**, which is often used to accelerate machine learning tasks.
+
+  ![alt text](resources/notes/05.png)
+
+- Q:
+
+  ![alt text](resources/questions/02.png)
+
+- Next, let's take a look at what your computer is actually doing behind the scenes to make vectorized code run so much faster.
+
 ## Vectorization part 2
 
 ## Optional lab: Python, NumPy and vectorization
