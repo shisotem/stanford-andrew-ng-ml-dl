@@ -50,6 +50,16 @@
 
 ## Vectorization part 2
 
+- Use **Vectorization** in NumPy instead of loops:
+
+  - The dot function in NumPy is optimized for vectorization. It allows the computer to process all values of vectors w and x simultaneously, **multiplying corresponding pairs** in a **single parallel** operation (at t<sub>0</sub>).
+
+  - Following this, the computer uses specialized hardware to **efficiently sum** these products, **eliminating** the need for **sequential additions** (at t<sub>1</sub>).
+
+  - Consequently, vectorizing learning algorithms is a key step for efficient execution and scalability to large datasets.
+
+  ![alt text](resources/notes/06.png)
+
 ## Optional lab: Python, NumPy and vectorization
 
 ## Gradient descent for multiple linear regression
