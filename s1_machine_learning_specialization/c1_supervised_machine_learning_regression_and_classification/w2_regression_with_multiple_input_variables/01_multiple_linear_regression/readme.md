@@ -60,6 +60,18 @@
 
   ![alt text](resources/notes/06.png)
 
+- How vectorization helps with implementing multiple linear regression:
+
+  - For this example, I'm just going to ignore the parameter b (for simplicity).
+
+  - The computer's parallel processing hardware takes all 16 values in the vector w and subtracts in parallel, 0.1 times all 16 values in the vector d, and assign all 16 calculations back to w all at the same time and all in one step.
+
+  ![alt text](resources/notes/07.png)
+
+- Q:
+
+  ![alt text](resources/questions/03.png)
+
 ## Optional lab: Python, NumPy and vectorization
 
 ## Gradient descent for multiple linear regression
