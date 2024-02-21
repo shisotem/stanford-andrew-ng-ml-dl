@@ -89,6 +89,8 @@
 
   ![alt text](resources/notes/08.jpg)
 
+  ![alt text](resources/notes/09.png)
+
 - Issues with Gradient Descent:
 
   - Depending on the **initial guesses**, it may converge to a local minimum that is **not the global minimum**.
@@ -101,13 +103,13 @@
 
   - So, implementing gradient descent on a convex function has a beneficial property: if the learning rate is chosen correctly, it will always converge to the global minimum.
 
-  ![alt text](resources/notes/09.jpg)
+  ![alt text](resources/notes/10.jpg)
 
 ## Running gradient descent
 
 - The model f(x), obtained after applying gradient descent, can be used to predict the price of new houses.
 
-  ![alt text](resources/notes/10.png)
+  ![alt text](resources/notes/11.png)
 
 - To be more precise, the gradient descent process we've discussed so far is called **"batch" gradient descent**.
 
