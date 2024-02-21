@@ -32,7 +32,7 @@
 
 ## Vectorization part 1
 
-- Learning how to write **vectorized** code will allow you to also take advantage of modern numerical **linear algebra libraries**, as well as possibly even **GPU** hardware.
+- Learning how to write **vectorized** code will allow you to also take advantage of modern **numerical linear algebra libraries**, as well as possibly even **GPU** hardware.
 
 - Two distinct benefits of vectorization:
 
