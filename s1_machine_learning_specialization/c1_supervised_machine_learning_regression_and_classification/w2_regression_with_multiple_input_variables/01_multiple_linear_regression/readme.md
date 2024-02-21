@@ -76,4 +76,22 @@
 
 ## Gradient descent for multiple linear regression
 
+- We want to find the values of w<sub>1</sub>, ..., w<sub>n</sub>, and b that minimize the cost function J(w<sub>1</sub>, ..., w<sub>n</sub>, b).
+
+  ![alt text](resources/notes/08.png)
+
+  - Similar shaped equations (One feature &harr; Multiple features):
+
+  ![alt text](resources/notes/09.png)
+
+  - "My" derivation ("Probably" correct):
+
+  ![alt text](resources/notes/10.jpg)
+
+- Next: You now know multiple linear regression. This is probably **the single most widely used** learning algorithm in the world today. But there's more. With just a few tricks such as **picking and scaling features appropriately** and also **choosing the learning rate alpha appropriately**, you'd really make this work much better.
+
+- (Quick side note: **Normal Equation**)
+
+  ![alt text](resources/notes/11.png)
+
 ## Optional Lab: Multiple linear regression
