@@ -11,6 +11,17 @@
 - A very **small change to w1** can have a very **large impact on the estimated price** and that's a very **large impact on the cost J**. In contrast, it takes a much **larger change in w2** in order to **change the predictions** much. And **small changes to w2**, **don't change the cost function** nearly as much.
 
   ![alt text](resources/notes/02.png)
+
+- **Skinny** gradient descent may **oscillate** before finding the global minimum.
+
+  - **Scaling features can help**, transforming data so that all features range from 0 to 1.
+
+  - This allows for a more **direct path** to the global minimum.
+
+  ![alt text](resources/notes/03.png)
+
+- Recap: Features with different value ranges can **slow** gradient descent. **Rescaling to comparable ranges improves speed**.
+
 ## Feature scaling part 2
 
 ## Checking gradient descent for convergence
