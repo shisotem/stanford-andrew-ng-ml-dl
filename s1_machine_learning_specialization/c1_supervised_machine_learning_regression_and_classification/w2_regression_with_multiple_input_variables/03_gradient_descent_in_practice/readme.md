@@ -8,6 +8,9 @@
 
   ![alt text](resources/notes/01.png)
 
+- A very **small change to w1** can have a very **large impact on the estimated price** and that's a very **large impact on the cost J**. In contrast, it takes a much **larger change in w2** in order to **change the predictions** much. And **small changes to w2**, **don't change the cost function** nearly as much.
+
+  ![alt text](resources/notes/02.png)
 ## Feature scaling part 2
 
 ## Checking gradient descent for convergence
