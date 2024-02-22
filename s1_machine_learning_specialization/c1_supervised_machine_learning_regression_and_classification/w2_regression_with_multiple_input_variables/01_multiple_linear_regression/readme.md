@@ -88,7 +88,7 @@
 
   ![alt text](resources/notes/10.jpg)
 
-- Next: You now know multiple linear regression. This is probably **the single most widely used** learning algorithm in the world today. But there's more. With just a few tricks such as **picking and scaling features appropriately** and also **choosing the learning rate alpha appropriately**, you'd really make this work much better.
+- Next: You now know multiple linear regression. This is probably **the single most widely used** learning algorithm in the world today. But there's more. With just a few tricks such as **picking and scaling features appropriately** and also **choosing the learning rate &alpha; appropriately**, you'd really make this work much better.
 
 - (Quick side note: **Normal Equation**)
 
