@@ -86,13 +86,15 @@
 
 ## Feature engineering
 
-- a
+- **Feature engineering** is the process of using domain knowledge to create new features from existing ones, enhancing the model's predictive accuracy.
 
   ![alt text](resources/notes/12.png)
 
 - Q:
 
   ![alt text](resources/questions/03.png)
+
+- Next: Feature engineering enables fitting curves or non-linear functions to data, not just straight lines.
 
 ## Polynomial regression
 
