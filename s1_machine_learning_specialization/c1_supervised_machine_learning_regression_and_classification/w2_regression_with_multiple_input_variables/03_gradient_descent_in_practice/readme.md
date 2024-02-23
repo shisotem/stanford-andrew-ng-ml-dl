@@ -42,11 +42,21 @@
 
 ## Checking gradient descent for convergence
 
-- a
+- Review: Gradient descent
 
   ![alt text](resources/notes/08.png)
 
+- Two methods to ensure gradient descent is working correctly:
+
+  - [1] **Create a learning curve graph**. If gradient descent is functioning properly, the cost J should decrease with each iteration. If J increases, &alpha; may be **too large** or there might be a **bug** in the code.
+
+    - Observing the graph can provide **early warnings** if gradient descent isn't functioning correctly.
+
+  - [2] **Use an automatic convergence test**. However, setting the right threshold &epsilon; can be challenging, which is why **I prefer method [1]**.
+
   ![alt text](resources/notes/09.png)
+
+- Note: Various types of learning curves are used in machine learning, and more will be introduced later.
 
 ## Choosing the learning rate
 
