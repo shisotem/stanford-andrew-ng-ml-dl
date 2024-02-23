@@ -32,6 +32,10 @@
 
   ![alt text](resources/notes/07.png)
 
+> [!IMPORTANT]
+>
+> There's almost never any harm to carrying out feature rescaling. When in doubt, I encourage you to just carry it out.
+
 - Q:
 
   ![alt text](resources/questions/01.png)
