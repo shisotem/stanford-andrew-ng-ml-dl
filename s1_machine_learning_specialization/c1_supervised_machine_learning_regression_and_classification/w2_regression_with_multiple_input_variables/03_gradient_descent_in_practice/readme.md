@@ -72,7 +72,7 @@
 
 - Objective: Find &alpha; that **quickly** and **consistently** reduces cost J.
 
-  - I run gradient descent multiple times for each &alpha; (**0.001, 0.003, 0.01, ...**), plotting cost J against #iterations. I continue until I find a too small and a too large learning rate &alpha;.
+  - I run gradient descent just for a handful of iterations for each &alpha; (**0.001, 0.003, 0.01, ...**), plotting cost J against iterations. I continue until I find a too small and a too large learning rate &alpha;.
 
   - I then select **the largest reasonable &alpha;** or **slightly smaller** than it.
 
