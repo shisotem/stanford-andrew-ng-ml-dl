@@ -20,13 +20,15 @@
 
 ## Feature scaling part 2
 
-- a
+- Three ways to implement feature scaling:
 
   ![alt text](resources/notes/04.png)
 
   ![alt text](resources/notes/05.png)
 
   ![alt text](resources/notes/06.png)
+
+- Should you scale your features?
 
   ![alt text](resources/notes/07.png)
 
@@ -39,7 +41,7 @@
 - a
 
   ![alt text](resources/notes/08.png)
-  ｆ
+
   ![alt text](resources/notes/09.png)
 
 ## Choosing the learning rate
