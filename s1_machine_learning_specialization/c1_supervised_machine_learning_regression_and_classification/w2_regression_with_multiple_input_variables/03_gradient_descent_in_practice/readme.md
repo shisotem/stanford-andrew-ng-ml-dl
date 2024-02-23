@@ -70,7 +70,7 @@
 
   ![alt text](resources/notes/10.png)
 
-- The aim is to find an &alpha; that **quickly** and **consistently** reduces cost J.
+- Objective: Find &alpha; that **quickly** and **consistently** reduces cost J.
 
   - I run gradient descent multiple times for each &alpha; (**0.001, 0.003, 0.01, ...**), plotting cost J against #iterations. I continue until I find a too small and a too large learning rate &alpha;.
 
