@@ -60,9 +60,21 @@
 
 ## Choosing the learning rate
 
-- a
+- Your learning algorithm will run much **faster** with an appropriate choice of learning rate &alpha;.
+
+- **Debugging** for the correct implementation of gradient descent:
+
+  - If gradient descent isn't functioning properly, I often set &alpha; to a **very small number**. If cost J still increases, there's likely a **bug in the code**.
+
+  - This very small &alpha; is **for debugging**, not for training the model, as it slows down convergence.
 
   ![alt text](resources/notes/10.png)
+
+- The aim is to find an &alpha; that **quickly** and **consistently** reduces cost J.
+
+  - I run gradient descent multiple times for each &alpha; (**0.001, 0.003, 0.01, ...**), plotting cost J against #iterations. I continue until I find a too small and a too large learning rate &alpha;.
+
+  - I then select **the largest reasonable &alpha;** or **slightly smaller** than it.
 
   ![alt text](resources/notes/11.png)
 
