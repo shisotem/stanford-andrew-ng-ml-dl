@@ -102,7 +102,7 @@
 
 - By using **feature engineering** and **polynomial functions**, you can potentially get a much better model for your data.
 
-  - x<sup>2</sup> and x<sup>3</sup> take on **very different** ranges of values compared to the original feature x. So, if you're using gradient descent, it's **important** to apply **feature scaling** to get your features into comparable ranges of values.
+  - Note: x<sup>2</sup> and x<sup>3</sup> take on **very different** ranges of values compared to the original feature x. So, if you're using gradient descent, it's **important** to apply **feature scaling** to get your features into comparable ranges of values.
 
   ![alt text](resources/notes/13.png)
 
