@@ -26,6 +26,8 @@
 
   ![alt text](resources/notes/05.png)
 
+  - TODO: relearn stats
+
   ![alt text](resources/notes/06.png)
 
 - Should you scale your features?
