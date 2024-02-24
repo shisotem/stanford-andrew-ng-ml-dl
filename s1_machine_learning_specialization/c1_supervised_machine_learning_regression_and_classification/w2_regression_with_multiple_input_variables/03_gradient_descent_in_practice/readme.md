@@ -48,7 +48,7 @@
 
   ![alt text](resources/notes/08.png)
 
-- Two methods to ensure gradient descent is working correctly:
+- Two methods to declare convergence in gradient descent:
 
   - [1] **Create a learning curve graph**. If gradient descent is functioning properly, the cost J should decrease with each iteration. If J increases, &alpha; may be **too large** or there might be a **bug** in the code.
 
