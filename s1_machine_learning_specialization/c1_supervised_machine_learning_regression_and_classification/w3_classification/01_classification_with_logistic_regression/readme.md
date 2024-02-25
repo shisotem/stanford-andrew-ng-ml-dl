@@ -41,4 +41,24 @@
 
 ## Decision boundary
 
+- When does the prediction yield 1, and when does it yield 0?
+
+  ![alt text](resources/notes/06.png)
+
+- **Decision boundary**: If the threshold is 0.5, the decision boundary is **z=0**.
+
+  - For instance, if the parameters are w<sub>1</sub>=1, w<sub>2</sub>=1, b=-3, the decision boundary is the following purple line:
+
+  ![alt text](resources/notes/07.png)
+
+  - You can use **polynomial features** to get more **complex** decision boundaries.
+
+  ![alt text](resources/notes/08.png)
+
+  ![alt text](resources/notes/09.png)
+
+- Q:
+
+  ![alt text](resources/questions/03.png)
+
 ## Optional lab: Decision boundary
