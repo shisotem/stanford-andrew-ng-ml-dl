@@ -27,9 +27,7 @@
 
   ![alt text](resources/notes/04.png)
 
-- Interpretation of logistic regression output:
-
-  - **Probability** of **y=1** on input x
+- Interpretation of logistic regression output: **Probability** of **y=1** on input x
 
   ![alt text](resources/notes/05.png)
 
