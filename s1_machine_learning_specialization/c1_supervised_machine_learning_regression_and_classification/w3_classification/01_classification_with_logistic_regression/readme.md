@@ -21,7 +21,23 @@
 
 ## Logistic regression
 
-- **Logistic regression** is one of the most popular and widely used learning algorithms today.
+- **Logistic regression** is probably the single most widely used classification algorithm in the world.
+
+  ![alt text](resources/notes/03.png)
+
+  ![alt text](resources/notes/04.png)
+
+- Interpretation of logistic regression output:
+
+  - **Probability** of **y=1** on input x
+
+  ![alt text](resources/notes/05.png)
+
+- Q:
+
+  ![alt text](resources/questions/02.png)
+
+- For a long time, many internet ads operated on a slightly modified version of logistic regression.
 
 ## Optional lab: Sigmoid function and logistic regression
 
