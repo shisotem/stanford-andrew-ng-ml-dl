@@ -8,7 +8,7 @@
 
 - What happens when you try to use linear regression for classification? - Often it will **not** work well.
 
-  - The blue line seems reasonable at first glance.
+  - For this particular training set, the blue line seems reasonable at first glance.
   - However, just by adding one training example to the right, the linear regression line (and decision boundary) shifts significantly to the right, resulting in a drastic decrease in prediction accuracy.
 
   ![alt text](resources/notes/02.png)
