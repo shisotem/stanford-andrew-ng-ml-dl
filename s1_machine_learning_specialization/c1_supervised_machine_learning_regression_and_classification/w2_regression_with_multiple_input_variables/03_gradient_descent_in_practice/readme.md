@@ -112,6 +112,20 @@
 
   ![alt text](resources/notes/14.png)
 
+> [!NOTE]
+>
+> - (Multiple) Linear Regression:
+>
+>   - f<sub>w,b</sub>(x) = w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> + ... + w<sub>n</sub>x<sub>n</sub> + b
+>
+> - Polynomial Regression:
+>
+>   - f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + ... + w<sub>n</sub>x<sup>n</sup> + b (x<sup>j</sup>: j &in; &naturals;)
+>
+> - Polynomial regression is a special case of (multiple) linear regression.
+>
+>   - x<sub>1</sub> = x, x<sub>2</sub> = x<sup>2</sup>, ..., x<sub>n</sub> = x<sup>n</sup>
+
 ## Optional lab: Feature engineering and Polynomial regression
 
 ## Optional lab: Linear regression with scikit-learn
