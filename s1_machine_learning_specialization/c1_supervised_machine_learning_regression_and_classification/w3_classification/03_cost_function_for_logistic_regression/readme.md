@@ -35,4 +35,18 @@
 
 ## Simplified Cost Function for Logistic Regression
 
+- Simplified loss function:
+
+  ![alt text](resources/notes/06.png)
+
+- Simplified cost function:
+
+  - Why was this specific function chosen as the cost function? It's derived from a statistical principle called **maximum likelihood estimation**, used to efficiently find parameters for different models.
+
+  ![alt text](resources/notes/07.png)
+
+- Q:
+
+  ![alt text](resources/questions/02.png)
+
 ## Optional lab: Cost function for logistic regression
