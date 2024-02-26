@@ -15,7 +15,7 @@
 
 - By using **logistic loss** function for logistic regression, we can make it's cost function convex.
 
-  - Note: f is always between 0 and 1 because the output of logistic regression is always between 0 and 1.
+  - Note: f is always between 0 and 1 because [the output of logistic regression is always between 0 and 1](https://github.com/shisotem/stanford-andrew-ng-ml-dl/blob/main/s1_machine_learning_specialization/c1_supervised_machine_learning_regression_and_classification/w3_classification/01_classification_with_logistic_regression/resources/notes/04.png).
 
   - Parameters that make predictions close to 0 for the training example with a label of 1 will incur a large loss.
 
