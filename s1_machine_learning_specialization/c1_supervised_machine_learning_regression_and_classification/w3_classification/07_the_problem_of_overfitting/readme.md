@@ -4,7 +4,7 @@
 
 - **Underfit** = **High bias** ↔ Just right = Generalization ↔ **Overfit** = **High variance**
 
-  - Underfitting: Caused by **preconception** or strong bias, like assuming data is linear.
+  - Underfitting: Caused by high bias (**preconception**), like assuming data is linear.
 
   - **Generalization**: Ability to predict accurately on unseen examples.
 
