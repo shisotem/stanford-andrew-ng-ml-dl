@@ -10,7 +10,7 @@
 
   - Overfitting: Occurs with **high-order polynomials** with **many features**.
 
-    - Parameters make cost function zero (&because; error is zero for all training examples).
+    - Parameters make cost function zero (error is zero for all training examples).
 
     - **Works well on training set, but not on new examples**.
 
