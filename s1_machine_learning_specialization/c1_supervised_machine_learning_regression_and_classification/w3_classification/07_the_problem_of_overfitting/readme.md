@@ -2,7 +2,7 @@
 
 ## The problem of overfitting
 
-- **Underfit** = **High bias** ↔ Just right = Generalization ↔ **Overfit** = **High variance**
+- **Underfit** = **High bias** ↔ Just right &#9834; = Generalization ↔ **Overfit** = **High variance**
 
   - Underfitting: Caused by high bias (**preconception**), like assuming data is linear.
 
