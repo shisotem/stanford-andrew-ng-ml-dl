@@ -71,7 +71,15 @@
 
 - a
 
+  ![alt text](resources/notes/07.png)
+
+  ![alt text](resources/notes/08.png)
+
+  ![alt text](resources/notes/09.png)
+
 - Q:
+
+  ![alt text](resources/questions/03.png)
 
 ## Regularized linear regression
 
