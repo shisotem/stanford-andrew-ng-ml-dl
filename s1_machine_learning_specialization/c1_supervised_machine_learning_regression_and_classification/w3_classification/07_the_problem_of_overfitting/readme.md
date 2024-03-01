@@ -8,7 +8,7 @@
 
   - **Generalization**: Ability to predict accurately on unseen examples.
 
-  - Overfitting: Occurs with **high-order polynomials** with **many features**.
+  - Overfitting: Occurs with **many features** or **high-order polynomials**.
 
     - Parameters make cost function zero (error is zero for all training examples).
 
