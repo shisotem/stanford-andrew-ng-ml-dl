@@ -131,8 +131,16 @@
 
 ## Regularized logistic regression
 
-- a
+- The update of the gradient descent for regularized logistic regression is **very similar** to the update for regularized linear regression.
+
+  ![alt text](resources/notes/14.png)
+
+  - Only the contents of f(x) are different (everything else is the same).
+
+  ![alt text](resources/notes/15.png)
 
 - Q:
+
+  ![alt text](resources/questions/05.png)
 
 ## Optional lab: Regularization
