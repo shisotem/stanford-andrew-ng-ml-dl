@@ -69,11 +69,37 @@
 
 ## Cost function with regularization
 
-- a
+- Introduce a **regularization term** to the cost function.
+
+  - To minimize the cost function, we need to bring w<sub>3</sub>, w<sub>4</sub> close to 0.
+
+  - Eventually, the influence of features x<sup>3</sup>, x<sup>4</sup> becomes almost negligible, and we obtain an almost quadratic function.
 
   ![alt text](resources/notes/07.png)
 
+- Generally, there are more features, and it's difficult to choose which feature's influence to diminish.
+
+  - Therefore, create a model that includes all features and regularize all parameters w<sub>j</sub>.
+
+- The **regularization parameter &lambda;** needs to be appropriately chosen, just like the learning rate &alpha;.
+
+  - By scaling the first and second terms in the **same way** (/2m), it becomes a bit easier to choose a good value for λ.
+
+  - With /2m, even if the training set becomes larger, there is a high possibility that the previously chosen value of λ will continue to work well.
+
   ![alt text](resources/notes/08.png)
+
+- Two **trade-off** objectives:
+
+  - **First term**: We want parameters that fit the training data.
+
+  - **Second term**: We want to reduce overfitting by keeping parameters small.
+
+- The choice of &lambda; specifies **how to balance** between these two objectives.
+
+  - Extreme examples: &lambda; = 0, 10<sup>10</sup>
+
+  - We want to choose just the right value for &lambda;.
 
   ![alt text](resources/notes/09.png)
 
