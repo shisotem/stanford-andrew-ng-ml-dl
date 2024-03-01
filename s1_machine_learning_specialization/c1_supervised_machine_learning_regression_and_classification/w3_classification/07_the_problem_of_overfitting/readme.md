@@ -71,7 +71,7 @@
 
 - Introduce a **regularization term** to the cost function.
 
-  - To minimize the cost function, we need to bring w<sub>3</sub>, w<sub>4</sub> close to 0.
+  - To minimize the modified cost function, we need to bring w<sub>3</sub>, w<sub>4</sub> close to 0.
 
   - Eventually, the influence of features x<sup>3</sup>, x<sup>4</sup> becomes almost negligible, and we obtain an almost quadratic function.
 
