@@ -97,7 +97,7 @@
 
 - The choice of &lambda; specifies **how to balance** between these two objectives.
 
-  - Extreme examples: &lambda; = 0, 10<sup>10</sup>
+  - (Extreme examples: &lambda; = 0, 10<sup>10</sup>)
 
   - We want to choose just the right value for &lambda;.
 
