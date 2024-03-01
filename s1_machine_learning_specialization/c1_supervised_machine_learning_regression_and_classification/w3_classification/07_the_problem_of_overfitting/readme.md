@@ -109,7 +109,7 @@
 
 ## Regularized linear regression
 
-- Gradient descent for regularized linear regression:
+- Gradient descent for **regularized linear regression**:
 
   ![alt text](resources/notes/10.png)
 
