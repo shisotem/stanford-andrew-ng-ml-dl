@@ -109,9 +109,25 @@
 
 ## Regularized linear regression
 
-- a
+- Gradient descent for regularized linear regression:
+
+  ![alt text](resources/notes/10.png)
+
+  ![alt text](resources/notes/11.png)
+
+- (Optional)
+
+  - An **alternate perspective** on the parameter-shrinking effect of regularization:
+
+  ![alt text](resources/notes/12.png)
+
+  - Derivation:
+
+  ![alt text](resources/notes/13.png)
 
 - Q:
+
+  ![alt text](resources/questions/04.png)
 
 ## Regularized logistic regression
 
