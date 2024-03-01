@@ -79,7 +79,7 @@
 
 - Generally, there are more features, and it's difficult to choose which feature's influence to diminish.
 
-  - Therefore, create a model that includes all features and regularize all parameters w<sub>j</sub>.
+  - Therefore, create a model that **includes all features** and **regularize all parameters w<sub>j</sub>**.
 
 - The **regularization parameter &lambda;** needs to be appropriately chosen, just like the learning rate &alpha;.
 
