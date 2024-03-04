@@ -37,6 +37,18 @@
 
 - For a long time, many internet ads operated on a slightly modified version of logistic regression.
 
+> [!NOTE]
+>
+> g(z) = 1 / (1 + e<sup>-z</sup>)
+>
+> g(z+4) = 1 / (1 + e<sup>-(z+4)</sup>) = g(z-(-4))
+>
+> g(2z+8) = 1 / (1 + e<sup>-(2z+8)</sup>) = g(2(z-(-4)))
+>
+> g(-0.5z+1) = 1 / (1 + e<sup>-(-0.5z+1)</sup>) = g(-0.5(z-2))
+>
+> ![alt text](resources/notes/10.png)
+
 ## Optional lab: Sigmoid function and logistic regression
 
 ## Decision boundary
