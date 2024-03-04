@@ -41,7 +41,7 @@
 >
 > Logistic regression: f<sub>w,b</sub>(x) = g(w&middot;x+b)
 >
-> - g(x) = 1 / (1 + e<sup>-x</sup>)
+> - g(x) = 1 / (1 + e<sup>-x</sup>) &rarr; sigmoid function
 >
 > - g(x+2) = 1 / (1 + e<sup>-(x+2)</sup>) = g(x-(-2))
 >
