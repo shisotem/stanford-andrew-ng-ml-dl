@@ -39,15 +39,15 @@
 
 > [!NOTE]
 >
-> Logistic Regression Graphs:
+> Logistic Regression: f<sub>w,b</sub>(x) = g(w&middot;x+b)
 >
-> g(z) = 1 / (1 + e<sup>-z</sup>)
+> - g(x) = 1 / (1 + e<sup>-x</sup>)
 >
-> g(z+4) = 1 / (1 + e<sup>-(z+4)</sup>) = g(z-(-4))
+> - g(x+2) = 1 / (1 + e<sup>-(x+2)</sup>) = g(x-(-2))
 >
-> g(2z+8) = 1 / (1 + e<sup>-(2z+8)</sup>) = g(2(z-(-4)))
+> - g(2x+4) = 1 / (1 + e<sup>-(2x+4)</sup>) = g(2(x-(-4)))
 >
-> g(-0.5z+1) = 1 / (1 + e<sup>-(-0.5z+1)</sup>) = g(-0.5(z-2))
+> - g(-0.5x+0.5) = 1 / (1 + e<sup>-(-0.5x+0.5)</sup>) = g(-0.5(x-1))
 >
 > ![alt text](resources/notes/10.png)
 
