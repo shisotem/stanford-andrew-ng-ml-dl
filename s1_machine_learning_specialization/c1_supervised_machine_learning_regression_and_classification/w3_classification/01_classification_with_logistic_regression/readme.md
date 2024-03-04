@@ -39,6 +39,8 @@
 
 > [!NOTE]
 >
+> Logistic Regression Graphs:
+>
 > g(z) = 1 / (1 + e<sup>-z</sup>)
 >
 > g(z+4) = 1 / (1 + e<sup>-(z+4)</sup>) = g(z-(-4))
