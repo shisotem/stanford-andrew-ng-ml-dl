@@ -53,17 +53,33 @@
 >
 > ![alt text](resources/notes/10.png)
 >
-> cf.
+> cf. What are the values of x to obtain the same output value of 1?
 >
 > - h(x) = x<sup>2</sup>
 >
+>   - **x = 1**
+>
 > - h(2x) = (2x)<sup>2</sup>
+>
+>   - 2x = 1
+>   - &therefore; x = **1** /2 = 0.5
 >
 > - h(x+2) = (x+2)<sup>2</sup> = h(x-(-2))
 >
+>   - x-(-2) = 1
+>   - &therefore; x = **1** -2 = -1
+>
 > - h(2x+4) = (2x+4)<sup>2</sup> = h(2(x-(-2)))
 >
+>   - 2(x-(-2)) = 1
+>   - x-(-2) = 1 /2
+>   - &therefore; x = **1** /2 -2 = -1.5
+>
 > - h(-0.5x+0.5) = (-0.5x+0.5)<sup>2</sup> = h(-0.5(x-1))
+>
+>   - -0.5(x-1) = 1
+>   - x-1 = 1 /(-0.5)
+>   - &therefore; x = **1** /(-0.5) +1 = **1** \*(-2) +1 = -1
 >
 > ![alt text](resources/notes/11.png)
 
