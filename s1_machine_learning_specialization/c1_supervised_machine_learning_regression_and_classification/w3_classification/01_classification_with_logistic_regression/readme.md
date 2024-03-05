@@ -41,15 +41,15 @@
 >
 > Logistic regression: f<sub>w,b</sub>(x) = g(w&middot;x+b)
 >
-> - g(x) = 1 / (1 + e<sup>-x</sup>) &rarr; same as sigmoid function
+> - g(x) = 1 / (1 + e<sup>-x</sup>) &rarr; (same as sigmoid function)
 >
-> - g(2x) = 1 / (1 + e<sup>-2x</sup>)
+> - g(2x) = 1 / (1 + e<sup>-2x</sup>) &rarr; shift x-axis by /2
 >
-> - g(x+2) = 1 / (1 + e<sup>-(x+2)</sup>) = g(x-(-2))
+> - g(x+2) = 1 / (1 + e<sup>-(x+2)</sup>) = g(x-(-2)) &rarr; shift x-axis by -2
 >
-> - g(2x+4) = 1 / (1 + e<sup>-(2x+4)</sup>) = g(2(x-(-2)))
+> - g(2x+4) = 1 / (1 + e<sup>-(2x+4)</sup>) = g(2(x-(-2))) &rarr; shift x-axis by /2 and then -2
 >
-> - g(-0.5x+0.5) = 1 / (1 + e<sup>-(-0.5x+0.5)</sup>) = g(-0.5(x-1))
+> - g(-0.5x+0.5) = 1 / (1 + e<sup>-(-0.5x+0.5)</sup>) = g(-0.5(x-1)) &rarr; shift x-axis by \*(-2) and then +1
 >
 > ![alt text](resources/notes/10.png)
 >
@@ -63,23 +63,27 @@
 >
 >   - 2x = 1
 >   - &therefore; x = **1** /2 = 0.5
+>   - i.e. shift x-axis by /2
 >
 > - h(x+2) = (x+2)<sup>2</sup> = h(x-(-2))
 >
 >   - x-(-2) = 1
 >   - &therefore; x = **1** -2 = -1
+>   - i.e. shift x-axis by -2
 >
 > - h(2x+4) = (2x+4)<sup>2</sup> = h(2(x-(-2)))
 >
 >   - 2(x-(-2)) = 1
 >   - x-(-2) = 1 /2
 >   - &therefore; x = **1** /2 -2 = -1.5
+>   - i.e. shift x-axis by /2 and then -2
 >
 > - h(-0.5x+0.5) = (-0.5x+0.5)<sup>2</sup> = h(-0.5(x-1))
 >
 >   - -0.5(x-1) = 1
 >   - x-1 = 1 /(-0.5)
 >   - &therefore; x = **1** /(-0.5) +1 = **1** \*(-2) +1 = -1
+>   - i.e. shift x-axis by \*(-2) and then +1
 >
 > ![alt text](resources/notes/11.png)
 
