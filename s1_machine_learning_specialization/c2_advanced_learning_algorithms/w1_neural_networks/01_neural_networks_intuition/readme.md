@@ -45,4 +45,17 @@
 
 ## Demand Prediction
 
+- Will this product be a top seller or not? (&rarr; inventory levels, marketing campaigns)
+
+- a = f(x)
+
+  - a: "**Activation**" is actually a term from neuroscience, indicating how much high output a neuron is sending to other downstream neurons that follow it.
+
+  - f(x): A neuron's **activation function**, which can be a **sigmoid function**, a ReLU function, among others.
+
+    - This small logistic regression algorithm is, in fact, a very simplified model of a single neuron in the brain.
+
+![alt text](resources/notes/06.png)
+
+
 ## Example: Recognizing Images
