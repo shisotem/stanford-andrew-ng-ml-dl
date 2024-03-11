@@ -72,7 +72,7 @@
 
   ![alt text](resources/notes/04.jpg)
 
-- Can reach local minimum without decreasing learning rate &alpha;.
+- You can reach local minimum without decreasing learning rate &alpha;.
 
   - Near a local minimum,
 
