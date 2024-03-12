@@ -9,6 +9,7 @@
 - Squared error cost doesn't work well for logistic regression.
 
   - The **cost function** is obtained by taking the average of the **loss function** on each training example.
+
   - And, the cost function represents how well specific parameters fits the entire training set.
 
   ![alt text](resources/notes/02.png)
