@@ -39,6 +39,8 @@
 
 > [!NOTE]
 >
+> **[My Insight]**
+>
 > Logistic regression: f<sub>**w**,b</sub>(**x**) = g(**w**&middot;**x**+b)
 >
 > - g(x) = 1 / (1 + e<sup>-x</sup>) &rarr; (standard sigmoid function)
