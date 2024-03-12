@@ -97,6 +97,8 @@
 
   ![alt text](resources/notes/06.png)
 
+  ![alt text](resources/notes/12.jpg)
+
 - **Decision boundary**: If the threshold is 0.5, the decision boundary is **z=0**.
 
   - For instance, if the parameters are w<sub>1</sub>=1, w<sub>2</sub>=1, b=-3, the decision boundary is the following purple line:
