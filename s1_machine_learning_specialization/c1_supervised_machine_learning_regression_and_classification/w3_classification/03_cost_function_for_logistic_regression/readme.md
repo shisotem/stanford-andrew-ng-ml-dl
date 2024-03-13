@@ -22,6 +22,10 @@
 
   ![alt text](resources/notes/03.png)
 
+  - Note: The function -log(1 - f) is **symmetric** to -log(f) around f=0.5.
+
+    - &because; -log(f) &rarr; -log(-f) &rarr; -log(-(f - 1)) = -log(1 - f)
+
   ![alt text](resources/notes/04.png)
 
 - By using **logistic loss** function for logistic regression, we can make it's cost function convex.
