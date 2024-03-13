@@ -12,9 +12,9 @@
 
     - Parameters make cost function zero (error is zero for all training examples).
 
-    - **Works well on training set, but not on new examples**.
-
     - Slight changes in training set drastically alter the applied function.
+
+    - **Works well on training set, but not on new examples**.
 
   ![alt text](resources/notes/01.png)
 
