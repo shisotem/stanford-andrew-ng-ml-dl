@@ -2,7 +2,7 @@
 
 ## Gradient Descent Implementation
 
-- (I want to find the optimal parameters to enable outputting prediction probabilities for new data.)
+- (I want to find the optimal parameters to make prediction for new data.)
 
   ![alt text](resources/notes/01.png)
 
