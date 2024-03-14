@@ -99,7 +99,7 @@
 
 - Instead of manually engineering features as we did before, **NN automatically generates superior features**. This is why NN is one of the most powerful learning algorithms today.
 
-- So far, we've described the neural network as calculating affordability, awareness, perceived quality. But in reality, humans needn't devise these features. **The network determines the features to use in hidden layers by itself**, a notable characteristic of neural networks.
+- So far, we've described the neural network as calculating affordability, awareness, perceived quality. But in reality, humans needn't devise these features (affordability etc.). **The network determines the features to use in hidden layers by itself**, a notable characteristic of neural networks.
 
   ![alt text](resources/notes/11.png)
 
