@@ -53,7 +53,7 @@
 
   - f(x): A neuron's **activation function**, which can be a **sigmoid function**, a ReLU function, among others.
 
-    - This logistic regression unit or little logistic regression algorithm is, in fact, a very simplified model of a single neuron in the brain.
+    - This logistic regression unit or little logistic regression algorithm is, in fact, a very simplified model of a **single neuron** in the brain.
 
   ![alt text](resources/notes/06.png)
 
