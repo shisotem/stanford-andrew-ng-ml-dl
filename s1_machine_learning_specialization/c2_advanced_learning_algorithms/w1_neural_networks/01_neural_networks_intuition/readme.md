@@ -85,7 +85,7 @@
 
 - Notation by vectors (simplification):
 
-  - Tips: Why named "hidden" layer? - The **correct** values for affordability, awareness, and perceived quality are "hidden" (unknown).
+  - Tips: Why named "hidden" layer? - Unlike the input vector, the **correct** values for affordability, awareness, and perceived quality are "hidden" (=unknown).
 
   ![alt text](resources/notes/09.png)
 
