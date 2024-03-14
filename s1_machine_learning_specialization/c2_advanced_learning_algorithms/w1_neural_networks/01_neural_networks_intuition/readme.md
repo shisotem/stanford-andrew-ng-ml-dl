@@ -93,7 +93,7 @@
 
   - **Just a logistic regression** that inputs affordability, awareness, and perceived quality, and outputs the probability you are ultimately seeking.
 
-  - Using a new set of features (affordability etc.), not the original features (price etc.) is why this "logistic regression" (NN) has maybe higher prediction accuracy.
+  - Using a new set of features (affordability etc.), not the original features (price etc.) is why this "logistic regression" (NN) has hopefully higher prediction accuracy.
 
   ![alt text](resources/notes/10.png)
 
