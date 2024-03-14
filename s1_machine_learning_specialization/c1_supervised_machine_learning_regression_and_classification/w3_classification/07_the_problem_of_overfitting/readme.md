@@ -26,7 +26,7 @@
 
 ## Addressing overfitting
 
-- We'll now learn to **address** overfitting. (Later in this specialization, we'll learn to **diagnose** it and underfitting.)
+- We'll now learn to **address** overfitting. (Later in this specialization, we'll learn to **diagnose** overfitting and underfitting.)
 
 - If **more training data** is available, fitting a high order polynomial or feature-rich function can continue.
 
