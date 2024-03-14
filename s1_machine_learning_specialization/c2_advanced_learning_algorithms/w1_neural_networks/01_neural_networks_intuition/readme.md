@@ -97,7 +97,7 @@
 
   ![alt text](resources/notes/10.png)
 
-- So far, we've described the NN as calculating affordability, awareness, perceived quality. But in reality, humans **needn't devise these features** (affordability etc.). Instead of manually feature engineering as we did before, **the network determines the features to use in hidden layers by itself**. This is why NN is one of the most powerful learning algorithms today.
+- So far, we've described the NN as calculating affordability, awareness, perceived quality. But in reality, humans **needn't devise these features** (affordability etc.). Instead of manually feature engineering as we did before, **the network determines the features to use in hidden layers by itself** (&rarr; you'll see later). This is why NN is one of the most powerful learning algorithms today.
 
   ![alt text](resources/notes/11.png)
 
