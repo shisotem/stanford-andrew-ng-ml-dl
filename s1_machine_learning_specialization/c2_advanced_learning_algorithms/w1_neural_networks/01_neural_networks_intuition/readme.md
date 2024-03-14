@@ -79,7 +79,7 @@
 
   - In actual neural networks, a neuron is implemented to have access to **every value** of the previous layer.
 
-    - Then, if predicting affordability, maybe set the parameters to **ignore** marketing and material, **focusing on relevant features** like price and shipping cost.
+    - Then, if predicting affordability, maybe **set the parameters** to **ignore** marketing and material, **focusing on relevant features** like price and shipping cost.
 
   ![alt text](resources/notes/08.png)
 
