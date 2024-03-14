@@ -49,7 +49,7 @@
 
 - a = f(x):
 
-  - a: "**activation**" is actually a term from neuroscience, indicating how much high output a neuron is sending to other downstream neurons that follow it.
+  - a: "**activation**" is actually a term from neuroscience, indicating **how much high output a neuron is sending to other downstream neurons** that follow it.
 
   - f(x): A neuron's **activation function**, which can be a **sigmoid function**, a ReLU function, among others.
 
