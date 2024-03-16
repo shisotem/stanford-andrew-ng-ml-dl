@@ -131,7 +131,7 @@
 
 > [!NOTE]
 >
-> In a **CNN**, early layers detect basic features like edges, **regardless of their location** (_Translation Invariance_). Deeper layers start to recognize complex features, like parts of faces, where **relative positions matter too**.
+> In a **CNN**, early layers detect basic features like edges, **regardless of their location in an image** (_Translation Invariance_). Deeper layers start to recognize complex features, like parts of faces, where **relative positions matter too**.
 
 - By training the **same neural network** on a **different dataset**, like car images, it learns to detect new features for car detection.
 
