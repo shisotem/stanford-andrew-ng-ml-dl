@@ -106,3 +106,33 @@
   ![alt text](resources/notes/12.png)
 
 ## Example: Recognizing Images
+
+- You can apply a similar type of idea to **computer vision** applications.
+
+- **Face recognition**:
+
+  - Train a NN that inputs a feature vector with a million pixel intensity values and outputs the identity of the person in the picture.
+
+  ![alt text](resources/notes/13.png)
+
+- Let's look at a neural network that's been trained on a lot of images of faces and try to **visualize what these hidden layers are trying to compute**.
+
+  - 1st hidden layer: the neurons **detect very short lines or edges** in the image.
+
+  - 2nd hidden layer: the neurons aggregate lots of little short lines and edges in order to **detect parts of faces**.
+
+  - 3rd hidden layer: the neurons aggregate different parts of faces to **detect presence or absence of larger, coarser face shapes**.
+
+- No one ever explicitly instructed the neural network to "look for short little edges in the first layer, and eyes, noses, and face parts in the second layer, and then more complete face shapes at the third layer".
+
+  - i.e., The neural network is able to **figure out these things all by itself** from the data.
+
+  ![alt text](resources/notes/14.png)
+
+> [!NOTE]
+>
+> In a **CNN**, early layers detect basic features like edges, **regardless of their location** (_Translation Invariance_). Deeper layers start to recognize complex features, like parts of faces, where **relative positions matter too**.
+
+- By training the **same neural network** on a **different dataset**, like car images, it learns to detect new features for car detection.
+
+  ![alt text](resources/notes/15.png)
