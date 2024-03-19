@@ -10,7 +10,7 @@
 
   - Remember whenever you see "<sup>**[1]**</sup>", that just refers to a quantity that is **associated with layer 1** of the neural network.
 
-    - e.g. w<sub>2</sub><sup>[1]</sup>, b<sub>2</sub><sup>[1]</sup> are the parameters of the second hidden unit or the second hidden neuron in layer 1.
+    - e.g. **w**<sub>2</sub><sup>[1]</sup>, b<sub>2</sub><sup>[1]</sup> are the parameters of the second hidden unit or the second hidden neuron in layer 1.
 
   ![alt text](resources/notes/01.png)
 
