@@ -6,4 +6,4 @@
 
 ## Inference: making predictions (forward propagation)
 
-## Lab: Neurons and Layers
+## Neurons and Layers
