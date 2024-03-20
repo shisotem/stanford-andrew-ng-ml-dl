@@ -37,9 +37,19 @@
 
   ![alt text](resources/notes/06.png)
 
-- Matrix in NumPy:
+- 2D vs 1D:
 
   ![alt text](resources/notes/07.png)
+
+- 2D array or 2D matrix where one of the dimensions happens to be 1.
+
+  - TF uses 2D matrices, not 1D vectors, to improve computational efficiency.
+
+- 1D array or 1D vector that has no rows or columns, just a list of numbers.
+
+  - In linear regression or logistic regression, we use 1D vectors to represent the input features x.
+
+  ![alt text](resources/notes/08.png)
 
 ## Building a neural network
 
