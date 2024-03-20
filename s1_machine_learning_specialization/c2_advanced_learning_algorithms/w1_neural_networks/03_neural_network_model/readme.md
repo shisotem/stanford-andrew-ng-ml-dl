@@ -40,4 +40,26 @@
 
 ## Inference: making predictions (forward propagation)
 
+- This is just a binary classification problem where we input an image and classify it as either the digit zero or one.
+
+  ![alt text](resources/notes/08.png)
+
+  ![alt text](resources/notes/09.png)
+
+- You can also write the output of the neural network as **f(x)**.
+
+  - Remember that we use f(x) to denote the output of linear regression and logistic regression.
+
+- This is neural network **inference** via **forward propagation**.
+
+  - It propagates neuron activations from left to right.
+
+  - It is in contrast to the **learning algorithm**, **back propagation**.
+
+  - (With this, you can download parameters from an online pre-trained neural network and make inferences on your new data.)
+
+- This is a neural network architecture, which starts with more hidden units that decrease towards the output layer. There's also a pretty typical choice when choosing neural network architectures. (&rarr; more examples in the lab)
+
+  ![alt text](resources/notes/10.png)
+
 ## Neurons and Layers
