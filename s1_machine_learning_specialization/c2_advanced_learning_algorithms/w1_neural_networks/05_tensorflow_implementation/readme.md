@@ -29,6 +29,14 @@
 
 ## Data in TensorFlow
 
+- How data is represented in NumPy and in TensorFlow:
+
+  - NumPy was developed much earlier than TensorFlow.
+
+  - Unfortunately, there are some inconsistencies between how data is represented in NumPy and in TensorFlow.
+
+  ![alt text](resources/notes/06.png)
+
 ## Building a neural network
 
 ## Coffee Roasting in Tensorflow
