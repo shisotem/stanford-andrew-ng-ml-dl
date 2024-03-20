@@ -43,7 +43,7 @@
 
 - 2D array or 2D matrix where one of the dimensions happens to be 1.
 
-  - TF uses 2D matrices, not 1D vectors, to improve computational efficiency.
+  - TF, designed to handle very large datasets, uses 2D matrices instead of 1D vectors to improve computational efficiency.
 
 - 1D array or 1D vector that has no rows or columns, just a list of numbers.
 
