@@ -25,7 +25,7 @@
 
   ![alt text](resources/notes/05.png)
 
-- There are further details, like **loading the TensorFlow library and neural network parameters w and b**, not covered here. We'll address these in the lab. Please review it.
+- There are further details, like **loading the TensorFlow library and neural network parameters w and b**, not covered here. We'll address these in the lab, so please be sure to take a look.
 
 ## Data in TensorFlow
 
