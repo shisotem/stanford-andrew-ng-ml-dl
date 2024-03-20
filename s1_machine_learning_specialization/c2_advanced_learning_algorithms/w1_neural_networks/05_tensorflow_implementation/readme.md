@@ -37,6 +37,10 @@
 
   ![alt text](resources/notes/06.png)
 
+- Matrix in NumPy:
+
+  ![alt text](resources/notes/07.png)
+
 ## Building a neural network
 
 ## Coffee Roasting in Tensorflow
