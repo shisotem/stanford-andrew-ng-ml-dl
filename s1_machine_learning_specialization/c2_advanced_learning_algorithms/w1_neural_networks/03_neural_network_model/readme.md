@@ -24,6 +24,20 @@
 
 ## More complex neural networks
 
+- By convention, when we say a neural network has four layers, this includes all the hidden layers and the output layer, but not the input layer.
+
+  ![alt text](resources/notes/04.png)
+
+- Reconfirm:
+
+  ![alt text](resources/notes/05.png)
+
+  ![alt text](resources/notes/06.png)
+
+- General equation:
+
+  ![alt text](resources/notes/07.png)
+
 ## Inference: making predictions (forward propagation)
 
 ## Neurons and Layers
