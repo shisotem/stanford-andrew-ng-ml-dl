@@ -29,27 +29,35 @@
 
 ## Data in TensorFlow
 
+- Why is it represented with double square brackets?
+
+  ![alt text](resources/notes/06.png)
+
+- 2D vs 1D (in NumPy):
+
+  ![alt text](resources/notes/07.png)
+
+  - 2D array or 2D matrix where one of the dimensions happens to be 1.
+
+    - TF, designed to handle very large datasets, uses 2D matrices instead of 1D vectors to improve computational efficiency.
+
+  - 1D array or 1D vector that has no rows or columns, just a list of numbers.
+
+    - In linear regression or logistic regression, we use 1D vectors to represent the input features x.
+
+  ![alt text](resources/notes/08.png)
+
+- 1 x 2 matrix (2D):
+
+  ![alt text](resources/notes/09.png)
+
 - How data is represented in NumPy and in TensorFlow:
 
   - NumPy was developed much earlier than TensorFlow.
 
   - Unfortunately, there are some inconsistencies between how data is represented in NumPy and in TensorFlow.
 
-  ![alt text](resources/notes/06.png)
-
-- 2D vs 1D:
-
-  ![alt text](resources/notes/07.png)
-
-- 2D array or 2D matrix where one of the dimensions happens to be 1.
-
-  - TF, designed to handle very large datasets, uses 2D matrices instead of 1D vectors to improve computational efficiency.
-
-- 1D array or 1D vector that has no rows or columns, just a list of numbers.
-
-  - In linear regression or logistic regression, we use 1D vectors to represent the input features x.
-
-  ![alt text](resources/notes/08.png)
+  ![alt text](resources/notes/10.png)
 
 ## Building a neural network
 
