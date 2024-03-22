@@ -59,6 +59,12 @@
 
   ![alt text](resources/notes/10.png)
 
+  ![alt text](resources/notes/11.png)
+
+- A tensor is a more general mathematical concept than a scalar, vector and matrix.
+
+  - Here, a tensor (`tf.Tensor`) is a data type used in TensorFlow to efficiently store and carry out computations.
+
 ## Building a neural network
 
 ## Coffee Roasting in Tensorflow
