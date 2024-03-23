@@ -75,7 +75,7 @@
 
   ![alt text](resources/notes/13.png)
 
-- More commonly, the layers are directly inserted into the `Sequential` function.
+- More commonly, the layers are **directly** inserted into the `Sequential` function.
 
   ![alt text](resources/notes/14.png)
 
