@@ -67,4 +67,20 @@
 
 ## Building a neural network
 
+- (So far)
+
+  ![alt text](resources/notes/12.png)
+
+- The `Sequential` function in TensorFlow creates a neural network by sequentially stringing together the two layers that I just created.
+
+  ![alt text](resources/notes/13.png)
+
+- More commonly, the layers are directly inserted into the `Sequential` function.
+
+  ![alt text](resources/notes/14.png)
+
+- One more example:
+
+  ![alt text](resources/notes/15.png)
+
 ## Coffee Roasting in Tensorflow
