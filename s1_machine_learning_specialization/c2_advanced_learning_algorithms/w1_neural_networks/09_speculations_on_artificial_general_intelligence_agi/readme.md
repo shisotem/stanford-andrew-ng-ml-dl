@@ -2,21 +2,21 @@
 
 ## Is there a path to AGI?
 
-- Just because Artificial Narrow Intelligence (ANI) has made explosive progress, it doesn't necessarily mean that Artificial General Intelligence (AGI) has made advancements.
+- Just because **ANI** has made explosive progress, it doesn't necessarily mean that **AGI** has made advancements.
 
   ![alt text](resources/notes/01.png)
 
-- Logistic regression units are far simpler than the tasks biological neurons perform. 😭
+- Logistic regression units are far simpler than what biological neurons perform. 😭
 
   ![alt text](resources/notes/02.png)
 
-- We still barely understand how the brain works. Fundamental questions remain about how neurons map inputs to outputs. 😭
+- We still barely understand how the brain works. Fundamental questions remain about how neurons **map inputs to outputs**. 😭
 
   ![alt text](resources/notes/03.png)
 
-- The "one learning algorithm" hypothesis, which suggests that a single or a small set of learning algorithms could be responsible for much of intelligence:
+- The "**one learning algorithm**" hypothesis:
 
-  - When a part of the brain is fed different data, it learns to hear, see, feel, etc. accordingly.
+  - When the piece of the brain is fed different data, it instead learns to hear, see, feel, etc. accordingly.
 
   - Maybe a lot of intelligence could be due to one or a small handful of learning algorithms.
 
