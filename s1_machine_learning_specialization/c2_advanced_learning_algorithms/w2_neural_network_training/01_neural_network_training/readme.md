@@ -9,3 +9,7 @@
   ![alt text](resources/notes/01.png)
 
 ## Training Details
+
+- Let's recall how you trained a logistic regression model:
+
+  ![alt text](resources/notes/02.png)
