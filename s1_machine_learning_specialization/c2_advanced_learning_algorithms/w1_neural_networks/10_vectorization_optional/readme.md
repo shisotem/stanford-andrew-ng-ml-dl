@@ -58,3 +58,9 @@
   ![alt text](resources/notes/09.png)
 
 - Vectorized implementation of a neural network:
+
+  - The sigmoid of 165 is very close to 1, and thus, it is rounded to 1.
+
+  - In machine learning, it is common to **arrange individual examples in rows** within the matrix [X](https://github.com/shisotem/stanford-andrew-ng-ml-dl/blob/main/s1_machine_learning_specialization/c2_advanced_learning_algorithms/w1_neural_networks/05_tensorflow_implementation/resources/notes/13.png), and TensorFlow follows this convention. So, we can also name this variable as [A_in](https://github.com/shisotem/stanford-andrew-ng-ml-dl/blob/main/s1_machine_learning_specialization/c2_advanced_learning_algorithms/w1_neural_networks/10_vectorization_optional/resources/notes/01.png) instead of AT. Both are correct code implementations.
+
+  ![alt text](resources/notes/10.png)
