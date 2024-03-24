@@ -55,4 +55,6 @@
   Does W have __matmul__ method? True
   ```
 
+  ![alt text](resources/notes/09.png)
+
 - Vectorized implementation of a neural network:
