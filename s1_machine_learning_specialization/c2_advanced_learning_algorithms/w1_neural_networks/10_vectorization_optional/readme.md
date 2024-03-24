@@ -26,4 +26,12 @@
 
 ## Matrix multiplication rules
 
+- General rules for matrix multiplication:
+
+  ![alt text](resources/notes/06.png)
+
+  ![alt text](resources/notes/07.png)
+
+  ![alt text](resources/notes/08.png)
+
 ## Matrix multiplication code
