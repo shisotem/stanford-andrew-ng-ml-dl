@@ -21,3 +21,7 @@
   - `tensorflow.keras`: This is the **Keras** library, which was originally developed independently, but eventually got merged into the TensorFlow framework.
 
   ![alt text](resources/notes/04.png)
+
+  ![alt text](resources/notes/05.png)
+
+  ![alt text](resources/notes/06.png)
