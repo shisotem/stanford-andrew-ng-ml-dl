@@ -7,7 +7,7 @@
   - **Training set**: Data used to train the model
 
   - x = "input" variable / **feature**
-  - y = "output" variable / "target" variable / **label** / **Ground truth**
+  - y = "output" variable / "target" variable / **label** / **ground truth**
   - m = number of training examples
   - (x, y) = single training example
   - (x<sup>(i)</sup>, y<sup>(i)</sup>) = i<sup>th</sup> training example
