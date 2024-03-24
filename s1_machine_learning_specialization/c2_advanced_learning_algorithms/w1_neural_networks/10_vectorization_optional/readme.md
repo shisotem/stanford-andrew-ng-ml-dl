@@ -18,6 +18,12 @@
 
   ![alt text](resources/notes/03.png)
 
+- Matrix matrix multiplication:
+
+  ![alt text](resources/notes/04.png)
+
+  ![alt text](resources/notes/05.png)
+
 ## Matrix multiplication rules
 
 ## Matrix multiplication code
