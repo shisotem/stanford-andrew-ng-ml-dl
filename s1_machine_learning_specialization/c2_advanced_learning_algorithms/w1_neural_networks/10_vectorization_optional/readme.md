@@ -61,7 +61,7 @@
 
   - The sigmoid of 165 is very close to 1, and thus, it is rounded to 1.
 
-  - Both are valid perspectives and both variable names are correct:
+  - Both are valid perspectives and both **variable names** are correct:
 
     - [&diams;] In mathematics and linear algebra, vectors (**a**) are typically represented as **column vectors**, with their transposes (**a<sup>T</sup>**) being **row vectors**.
 
