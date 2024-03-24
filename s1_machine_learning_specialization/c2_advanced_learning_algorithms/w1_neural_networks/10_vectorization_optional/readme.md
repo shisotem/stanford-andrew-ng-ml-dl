@@ -8,6 +8,10 @@
 
 ## Matrix multiplication
 
+- **The dot product of vectors 'a' and 'w'** is equivalent to **the multiplication of the transposed vector 'a' with vector 'w'**.
+
+  ![alt text](resources/notes/02.png)
+
 ## Matrix multiplication rules
 
 ## Matrix multiplication code
