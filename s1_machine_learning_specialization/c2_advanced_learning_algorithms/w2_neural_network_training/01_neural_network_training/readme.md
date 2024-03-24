@@ -22,6 +22,10 @@
 
   ![alt text](resources/notes/04.png)
 
+  - Actually, TensorFlow can use an **optimization algorithm** faster than gradient descent (e.g., **Adam**), which you'll learn more about later this week.
+
   ![alt text](resources/notes/05.png)
+
+- As libraries mature, most engineers prefer using them over implementing code from scratch.
 
   ![alt text](resources/notes/06.png)
