@@ -11,7 +11,7 @@
 
 - The most commonly used activation functions in neural networks:
 
-  - When using the **linear activation function** g(z), people sometimes say, "we're **not using any activation function**" because the output is the same as the input, which is just z = w&middot;x + b.
+  - When using the **linear activation function** g(z), people sometimes say, "we're **not using any activation function**" because the output is the same as the input, which is just z.
 
   ![alt text](resources/notes/02.png)
 
