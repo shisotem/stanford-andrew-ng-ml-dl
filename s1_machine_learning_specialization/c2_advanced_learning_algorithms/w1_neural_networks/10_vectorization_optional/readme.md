@@ -36,7 +36,7 @@
 
 ## Matrix multiplication code
 
-- The Python built-in **@ operator** performs **matrix multiplication** between objects that implement the \_\_matmul\_\_ magic method.
+- The Python built-in `@` operator performs **matrix multiplication** between objects that implement the `__matmul__` magic method.
 
   ```python
   >>> import numpy as np
