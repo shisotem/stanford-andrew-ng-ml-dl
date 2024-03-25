@@ -48,7 +48,7 @@
 
 - You can also write the output of the neural network as **f(x)**.
 
-  - Remember that we use f(x) to denote the output of linear regression and logistic regression.
+  - Remember that we use f(x) to denote the output of linear regression and logistic regression, e.g., f(x) = wx + b.
 
 - This is neural network **inference** via **forward propagation**.
 
