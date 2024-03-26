@@ -4,8 +4,8 @@
 
 - If you use activation functions other than sigmoid, your neural network can become much more powerful.
 
-  - sigmoid &rarr; It assumes that awareness is binary (0 or 1) or a number between 0 and 1.
-  - ReLU &rarr; It suggests that awareness could range from 0 up to very large numbers.
+  - sigmoid &rarr; It assumes that awareness is binary (0 or 1) or a number between 0 and 1. 🤔
+  - ReLU &rarr; It suggests that awareness could range from 0 up to very large numbers. 👍
 
   ![alt text](resources/notes/01.png)
 
