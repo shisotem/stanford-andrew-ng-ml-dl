@@ -43,4 +43,12 @@
 
 ## Why do we need activation functions?
 
+- If we were to use the linear activation function in every neuron of the neural network, it wouldn't work.
+
+  ![alt text](resources/notes/06.png)
+
+  ![alt text](resources/notes/07.png)
+
+  ![alt text](resources/notes/08.png)
+
 ## ReLU activation
