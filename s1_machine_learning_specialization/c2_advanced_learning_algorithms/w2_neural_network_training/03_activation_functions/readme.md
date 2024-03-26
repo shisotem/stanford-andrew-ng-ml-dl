@@ -17,6 +17,26 @@
 
 ## Choosing activation functions
 
+- You can choose different activation functions for different neurons in your neural network.
+
+- Output layer:
+
+  ![alt text](resources/notes/03.png)
+
+- Hidden layers:
+
+  - Early neural network development used sigmoid functions, but today's practitioners **predominantly** use **ReLU** activation.
+
+    - (ReLU is faster to compute than sigmoid as it only requires max(0, z), avoiding exponentiation and inversion.)
+
+    - Importantly, **using an activation function g(z) that is flat in many areas significantly slows down the gradient descent for the cost function J(W, B)**. In just an intuitive explanation, the activation function is part of the computation, this leading to **more flat areas with small gradients in the cost function J(W, B)**, which slows down learning.
+
+  ![alt text](resources/notes/04.png)
+
+- To recap:
+
+  ![alt text](resources/notes/05.png)
+
 ## Why do we need activation functions?
 
 ## ReLU activation
