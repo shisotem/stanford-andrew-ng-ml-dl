@@ -37,6 +37,10 @@
 
   ![alt text](resources/notes/05.png)
 
+- Other activation functions: LeakyReLU, tanh, Swish, etc.
+
+  - I've used LeakyReLU a few times in my work, and sometimes it works a little bit better than ReLU. But I think for the most part, and for the vast majority of applications **what you learned about here would be good enough**.
+
 ## Why do we need activation functions?
 
 ## ReLU activation
