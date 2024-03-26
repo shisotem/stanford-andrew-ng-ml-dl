@@ -47,6 +47,8 @@
 
   ![alt text](resources/notes/06.png)
 
+- Why "linear regression"? - Explanation with a simpler example:
+
   ![alt text](resources/notes/07.png)
 
   ![alt text](resources/notes/08.png)
