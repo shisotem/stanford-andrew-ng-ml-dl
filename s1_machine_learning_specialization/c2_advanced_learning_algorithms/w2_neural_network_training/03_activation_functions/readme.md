@@ -47,9 +47,15 @@
 
   ![alt text](resources/notes/06.png)
 
-- Why "linear regression"? - Explanation with a simpler example:
+- Why "linear regression"? - Explanation with a simple example:
 
   ![alt text](resources/notes/07.png)
+
+- More generally:
+
+  - (hidden layer + output layer) linear activation function &rarr; linear regression
+
+  - (hidden layer) linear activation function + (output layer) sigmoid function &rarr; logistic regression
 
   ![alt text](resources/notes/08.png)
 
