@@ -53,9 +53,9 @@
 
 - More generally:
 
-  - (hidden layer + output layer) linear activation function &rarr; linear regression
+  - (hidden layer) Linear activation function + (output layer) Linear activation function &rarr; **Linear Regression**
 
-  - (hidden layer) linear activation function + (output layer) sigmoid function &rarr; logistic regression
+  - (hidden layer) Linear activation function + (output layer) Sigmoid &rarr; **Logistic Regression**
 
   ![alt text](resources/notes/08.png)
 
