@@ -12,6 +12,12 @@
 
 - The **softmax regression** algorithm is a generalization of the logistic regression algorithm.
 
+  - asdf
+
+  ![alt text](resources/notes/03.png)
+
+  ![alt text](resources/notes/04.png)
+
 ## Neural Network with Softmax output
 
 ## Improved implementation of softmax
