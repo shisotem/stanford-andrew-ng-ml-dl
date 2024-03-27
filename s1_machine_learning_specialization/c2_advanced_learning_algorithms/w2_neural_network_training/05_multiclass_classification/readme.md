@@ -2,6 +2,14 @@
 
 ## Multiclass
 
+- e.g. Classify pictures of pills into categories: scratch, discoloration, chip, etc.
+
+  ![alt text](resources/notes/01.png)
+
+  ![alt text](resources/notes/02.png)
+
+- Next, we'll look at the softmax regression algorithm which is a generalization of the logistic regression algorithm.
+
 ## Softmax
 
 ## Neural Network with Softmax output
