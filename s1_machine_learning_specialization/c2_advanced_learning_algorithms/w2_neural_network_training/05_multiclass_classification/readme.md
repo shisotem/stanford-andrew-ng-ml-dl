@@ -24,6 +24,10 @@
 
 ## Neural Network with Softmax output
 
+- This neural network includes a **softmax activation function**, has a **softmax layer** as the output layer, and produces **softmax output**.
+
+  ![alt text](resources/notes/05.png)
+
 ## Improved implementation of softmax
 
 ## Classification with multiple outputs (Optional)
