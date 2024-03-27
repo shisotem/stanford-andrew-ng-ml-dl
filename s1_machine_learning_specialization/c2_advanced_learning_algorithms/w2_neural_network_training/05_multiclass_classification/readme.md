@@ -8,9 +8,9 @@
 
   ![alt text](resources/notes/02.png)
 
-- Next, we'll look at the softmax regression algorithm which is a generalization of the logistic regression algorithm.
-
 ## Softmax
+
+- The **softmax regression** algorithm is a generalization of the logistic regression algorithm.
 
 ## Neural Network with Softmax output
 
