@@ -28,11 +28,21 @@
 
 - Unique properties of a softmax activation function:
 
-  - sigmoid, ReLU, linear: a<sub>1</sub> is a function of z<sub>1</sub>
+  - (sigmoid, ReLU, linear: a<sub>1</sub> is a function of z<sub>1</sub>)
 
   - softmax: a<sub>1</sub> is a function of z<sub>1</sub>, z<sub>2</sub>, ..., z<sub>N</sub>
 
   ![alt text](resources/notes/05.png)
+
+- Specify the loss function in Step 2:
+
+  - (For binary classification, use BinaryCrossentropy also known as logistic loss.)
+
+  - For multiclass classification, use **SparseCategoricalCrossentropy**.
+
+    - "Sparse" indicates that y can only take on one of these 10 values (0 ~ 9).
+
+  ![alt text](resources/notes/06.png)
 
 ## Improved implementation of softmax
 
