@@ -26,6 +26,12 @@
 
 - This neural network includes a **softmax activation function**, has a **softmax layer** as the output layer, and produces **softmax output**.
 
+- Unique properties of a softmax activation function:
+
+  - sigmoid, ReLU, linear: a<sub>1</sub> is a function of z<sub>1</sub>
+
+  - softmax: a<sub>1</sub> is a function of z<sub>1</sub>, z<sub>2</sub>, ..., z<sub>N</sub>
+
   ![alt text](resources/notes/05.png)
 
 ## Improved implementation of softmax
