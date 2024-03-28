@@ -46,6 +46,27 @@
 
 ## Improved implementation of softmax
 
+- Catastrophic cancellation: When two numbers are **very close to each other**, the difference between them can be inaccurate due to the limitations of floating-point representation in the memory.
+
+  ```python
+  >>> A = 1 + 1/10000
+  >>> A
+  1.0001
+  >>> B = 1 - 1/10000
+  >>> B
+  0.9999
+  >>> print(f'{A - B: .18f}')
+  0.000199999999999978
+  ```
+
+  ![alt text](resources/notes/07.png)
+
+  ![alt text](resources/notes/08.png)
+
+- asdf
+
+  ![alt text](resources/notes/09.png)
+
 ## Classification with multiple outputs (Optional)
 
 ## Softmax
