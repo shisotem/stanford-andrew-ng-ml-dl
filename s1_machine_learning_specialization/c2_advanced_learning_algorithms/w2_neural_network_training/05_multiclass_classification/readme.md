@@ -64,6 +64,7 @@
 
   - However, to prevent TensorFlow from computing 'a' as an intermediate term, I **expanded 'a' (which is the sigmoid function) directly into the loss function**. And then, TensorFlow **flexibly mixes or rearranges the terms** within the loss function, to compute the loss in a more numerically accurate way. This is like 2/10000.
 
+  - The output layer with `activation='linear'` computes the **logit** 'z', not the final probability 'a'. The loss function, set with `model.compile(loss=BinaryCrossentropy(from_logits=True))`, takes this logit 'z' from the model's output and applies it to **a loss function that is flexibly composed with a sigmoid function**.
 
   ![alt text](resources/notes/10.png)
 
