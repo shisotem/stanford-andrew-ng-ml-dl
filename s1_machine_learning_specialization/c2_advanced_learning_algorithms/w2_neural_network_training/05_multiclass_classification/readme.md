@@ -46,13 +46,13 @@
 
 ## Improved implementation of softmax
 
-- The computer has only a **finite** amount of memory to store each number, called a floating-point number in this case. So, depending on **how we compute** the value 2/10000, the result can have more or less numerical **round-off error**.
+- The computer has only a **finite** amount of memory to store each number, a floating-point number in this case. Therefore, depending on **how we compute** the value 2/10000, the result can have more or less numerical **round-off error**.
 
   ![alt text](resources/notes/07.png)
 
   ![alt text](resources/notes/08.png)
 
-- There's an alternative method to formulate the cost function for softmax. This method helps **reduce these round-off errors**, resulting in more precise calculations in TensorFlow.
+- There's an alternative method to formulate the loss function for softmax. This method helps **reduce round-off errors**, resulting in more precise calculations in TensorFlow.
 
 - First explanation using logistic regression:
 
