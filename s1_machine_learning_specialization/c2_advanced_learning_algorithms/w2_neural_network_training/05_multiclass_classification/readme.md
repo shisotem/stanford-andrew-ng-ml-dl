@@ -74,6 +74,8 @@
 
   ![alt text](resources/notes/11.png)
 
+  - For example, when z<sub>2</sub> is very small, e<sup>z<sub>2</sub></sup> also becomes very small, and when z<sub>4</sub> is very large, e<sup>z<sub>4</sub></sup> becomes very large. By flexibly rearranging terms within the loss function, we can **avoid these extremely small or large values** and calculate the loss more accurately.
+
   ![alt text](resources/notes/12.png)
 
 - More details:
