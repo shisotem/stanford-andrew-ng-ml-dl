@@ -80,6 +80,10 @@
 
 - Entire code up to 'predict':
 
+  - **Conceptually equivalent** to the implementation in the previous lecture
+  - **More numerically accurate**
+  - Unfortunately, a bit **hard to read**
+
   ![alt text](resources/notes/13.png)
 
   ![alt text](resources/notes/14.png)
