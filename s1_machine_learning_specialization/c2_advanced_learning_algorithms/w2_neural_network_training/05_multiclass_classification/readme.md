@@ -54,9 +54,23 @@
 
 - There's an alternative method to formulate the cost function for softmax. This method helps **reduce these round-off errors**, resulting in more precise calculations in TensorFlow.
 
-- First explanation using logistic regression:
+- Logistic regression:
 
   ![alt text](resources/notes/09.png)
+
+  ![alt text](resources/notes/10.png)
+
+- Softmax regression:
+
+  ![alt text](resources/notes/11.png)
+
+  ![alt text](resources/notes/12.png)
+
+- More details:
+
+  ![alt text](resources/notes/13.png)
+
+  ![alt text](resources/notes/14.png)
 
 ## Classification with multiple outputs (Optional)
 
