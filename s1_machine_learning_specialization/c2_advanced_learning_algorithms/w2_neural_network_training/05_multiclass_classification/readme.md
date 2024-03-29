@@ -46,24 +46,15 @@
 
 ## Improved implementation of softmax
 
-- Catastrophic cancellation: When two numbers are **very close to each other**, the difference between them can be inaccurate due to the limitations of floating-point representation in the memory.
-
-  ```python
-  >>> A = 1 + 1/10000
-  >>> A
-  1.0001
-  >>> B = 1 - 1/10000
-  >>> B
-  0.9999
-  >>> print(f'{A - B: .18f}')
-  0.000199999999999978
-  ```
+- The computer has only a **finite** amount of memory to store each number, called a floating-point number in this case. So, depending on **how we compute** the value 2/10,000, the result can have more or less numerical **round-off error**.
 
   ![alt text](resources/notes/07.png)
 
   ![alt text](resources/notes/08.png)
 
-- asdf
+- There's an alternative method to formulate the cost function for softmax. This method helps **reduce these round-off errors**, resulting in more precise calculations in TensorFlow.
+
+- First explanation using logistic regression:
 
   ![alt text](resources/notes/09.png)
 
