@@ -54,7 +54,7 @@
 
 - There's an alternative method to formulate the loss function for softmax. This method helps **reduce round-off errors**, resulting in more precise calculations in TensorFlow.
 
-- First explanation using logistic regression:
+- Explanation using logistic regression:
 
   - Tell TensorFlow to compute 'a' as an **intermediate** term (This is also a model's final output). Then, compute the loss using **precalculated** 'a'. This is like (1 + 1/10000) - (1 - 1/10000), where (1 + 1/10000) and (1 - 1/10000) are intermediate terms.
 
