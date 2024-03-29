@@ -56,7 +56,7 @@
 
 - First explanation using logistic regression:
 
-  - Tell TensorFlow to compute 'a' as an intermediate term. Then, compute the loss using precalculated 'a'. This is like (1 + 1/10000) - (1 - 1/10000).
+  - Tell TensorFlow to compute 'a' as an **intermediate** term (This is also a model's final output). Then, compute the loss using **precalculated** 'a'. This is like (1 + 1/10000) - (1 - 1/10000), where (1 + 1/10000) and (1 - 1/10000) are intermediate terms.
 
   - For logistic regression, this implementation works okay, and usually the numerical round-off errors aren't that bad.
 
