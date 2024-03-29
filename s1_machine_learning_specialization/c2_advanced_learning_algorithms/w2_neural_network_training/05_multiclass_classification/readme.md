@@ -68,7 +68,9 @@
 
   ![alt text](resources/notes/10.png)
 
-- Softmax regression:
+- Improvement in softmax regression implementation:
+
+  - (For logistic regression, **both** implementations actually **perform well**. However, when it comes to softmax, the implementation shown below can **exacerbate numerical round-off errors**.)
 
   ![alt text](resources/notes/11.png)
 
