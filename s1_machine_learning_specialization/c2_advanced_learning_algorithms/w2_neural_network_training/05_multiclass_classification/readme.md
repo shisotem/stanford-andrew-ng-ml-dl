@@ -62,7 +62,8 @@
 
   ![alt text](resources/notes/09.png)
 
-  - However, to prevent TensorFlow from computing 'a' as an intermediate term, I expanded 'a' directly into the loss function. This allows TensorFlow to freely rearrange the terms within the loss function, to compute the loss in a more numerically accurate way. This is like 2/10000.
+  - However, to prevent TensorFlow from computing 'a' as an intermediate term, I **expanded 'a' (which is the sigmoid function) directly into the loss function**. And then, TensorFlow **flexibly mixes or rearranges the terms** within the loss function, to compute the loss in a more numerically accurate way. This is like 2/10000.
+
 
   ![alt text](resources/notes/10.png)
 
