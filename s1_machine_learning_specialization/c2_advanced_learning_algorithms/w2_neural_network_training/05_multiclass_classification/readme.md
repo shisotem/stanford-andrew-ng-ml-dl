@@ -78,7 +78,7 @@
 
   ![alt text](resources/notes/12.png)
 
-- More details:
+- Entire code up to 'predict':
 
   ![alt text](resources/notes/13.png)
 
