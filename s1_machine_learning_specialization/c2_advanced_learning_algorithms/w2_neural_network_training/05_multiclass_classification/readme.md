@@ -46,7 +46,7 @@
 
 ## Improved implementation of softmax
 
-- The computer has only a **finite** amount of memory to store each number, called a floating-point number in this case. So, depending on **how we compute** the value 2/10,000, the result can have more or less numerical **round-off error**.
+- The computer has only a **finite** amount of memory to store each number, called a floating-point number in this case. So, depending on **how we compute** the value 2/10000, the result can have more or less numerical **round-off error**.
 
   ![alt text](resources/notes/07.png)
 
