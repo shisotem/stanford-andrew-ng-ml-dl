@@ -90,9 +90,21 @@
 
 ## Classification with multiple outputs (Optional)
 
-- a
+- In multi-**class** classification, the label y can be **any one** of multiple categories.
+
+  - '1': 10%, '2': 60%, '3': 30% &rarr; Predicted label, y_hat = '2'
+
+  - (The sum of probabilities is 100%)
+
+- In multi-**label** classification, each input x can be associated with **multiple labels**.
+
+  - car: 70%, bus: 20%, pedestrian: 80% &rarr; Predicted labels, y_hat = [1, 0, 1] (if the threshold is 50%)
+
+  - (This is equivalent to three **binary classification** problems. Therefore, use **sigmoid** activation functions for the output layer.)
 
   ![alt text](resources/notes/15.png)
+
+- Both implementations are rational:
 
   ![alt text](resources/notes/16.png)
 
