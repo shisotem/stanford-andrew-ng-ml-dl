@@ -90,6 +90,12 @@
 
 ## Classification with multiple outputs (Optional)
 
+- a
+
+  ![alt text](resources/notes/15.png)
+
+  ![alt text](resources/notes/16.png)
+
 ## Softmax
 
 ## Multiclass
