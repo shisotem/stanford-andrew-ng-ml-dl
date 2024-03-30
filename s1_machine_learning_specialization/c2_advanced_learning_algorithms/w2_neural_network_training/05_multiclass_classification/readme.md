@@ -96,6 +96,8 @@
 
   - (The sum of probabilities is 100%)
 
+  - (Use **softmax** output layer.)
+
 - In multi-**label** classification, each input x can be associated with **multiple labels**.
 
   - car: 70%, bus: 20%, pedestrian: 80% &rarr; Predicted labels, y_hat = [1, 0, 1] (if the threshold is 50%)
