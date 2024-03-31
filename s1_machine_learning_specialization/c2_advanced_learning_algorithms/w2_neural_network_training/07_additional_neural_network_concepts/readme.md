@@ -18,7 +18,7 @@
 
 - How you implement Adam:
 
-  - Adam requires an initial learning rate, like 10<sup>-3</sup>. It's more **robust** to your initial learning rate choice than gradient descent as it can slightly adjust the learning rate automatically. Still, it's **beneficial to try a few values** for this default global learning rate to somewhat speed up the learning.
+  - Adam requires an initial learning rate, like 10<sup>-3</sup>. It's more **robust** to your initial learning rate choice than gradient descent as it can slightly adjust the learning rate automatically. Still, it's **beneficial to try a few values** for this default global learning rate, to somewhat speed up the learning.
 
   ![alt text](resources/notes/04.png)
 
