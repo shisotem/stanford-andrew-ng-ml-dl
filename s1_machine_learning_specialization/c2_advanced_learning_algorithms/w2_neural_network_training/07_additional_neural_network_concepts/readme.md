@@ -39,3 +39,9 @@
 - Convolutional layers offer **many architectural options**, like the input **window size** for a neuron and the number of neurons per layer. By optimizing these parameters, you can create CNNs that **outperform dense layers** in some applications.
 
 - Much of today's neural network research involves inventing new **layer types**. These different types of layers are combined like building blocks to create more complex and potentially powerful neural networks.
+
+  - Cutting-edge architectures using corresponding types of layers:
+
+    - Attention model (Attention layer)
+    - Transformer model (Self-Attention layer and Feed Forward Neural Network layer)
+    - LSTM (Long Short-Term Memory layer)
