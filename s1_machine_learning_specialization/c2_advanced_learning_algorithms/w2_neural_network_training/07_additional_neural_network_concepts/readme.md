@@ -31,3 +31,7 @@
 - Each neuron in the **convolutional** layer takes inputs from **only a subset** of neurons (commonly limited **little square** regions of the input image) in the previous layer.
 
   ![alt text](resources/notes/06.png)
+
+- **Convolutional Neural Network** (**CNN**) using 1D EKG signals (ElectroCardioGrams), not 2D images as input data:
+
+  ![alt text](resources/notes/07.png)
