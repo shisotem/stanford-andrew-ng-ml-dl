@@ -23,3 +23,7 @@
   ![alt text](resources/notes/04.png)
 
 ## Additional Layer Types
+
+- Dense layer takes inputs from **all** neurons in the previous layer.
+
+  ![alt text](resources/notes/05.png)
