@@ -35,3 +35,5 @@
 - **Convolutional Neural Network** (**CNN**) using 1D EKG signals (ElectroCardioGrams), not 2D images as input data:
 
   ![alt text](resources/notes/07.png)
+
+- Convolutional layers offer **many architectural options**, like the input **window size** for a neuron and the number of neurons per layer. By optimizing these parameters, you can create CNNs that **outperform dense layers** in some applications.
