@@ -32,7 +32,7 @@
 
   ![alt text](resources/notes/06.png)
 
-- **Convolutional Neural Network** (**CNN**) using 1D EKG signals (ElectroCardioGrams), not 2D images as input data:
+- **Convolutional Neural Network** (**CNN**) using 1D EKG signals (electrocardiograms), not 2D images as input data:
 
   ![alt text](resources/notes/07.png)
 
