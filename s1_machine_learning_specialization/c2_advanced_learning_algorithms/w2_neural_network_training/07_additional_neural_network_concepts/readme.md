@@ -24,6 +24,10 @@
 
 ## Additional Layer Types
 
-- Dense layer takes inputs from **all** neurons in the previous layer.
+- Each neuron in the **dense** layer takes inputs from **all** neurons in the previous layer.
 
   ![alt text](resources/notes/05.png)
+
+- Each neuron in the **convolutional** layer takes inputs from **only a subset** of neurons (commonly limited **little square** regions of the input image) in the previous layer.
+
+  ![alt text](resources/notes/06.png)
