@@ -40,7 +40,11 @@
 
   ![alt text](resources/notes/09.png)
 
+  - Manually verify that ∂J/∂w equals -4:
+
   ![alt text](resources/notes/10.png)
+
+- The efficiency of backprop:
 
   ![alt text](resources/notes/11.png)
 
