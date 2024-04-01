@@ -14,13 +14,15 @@
 
   ![alt text](resources/notes/03.png)
 
-- asdf
+- Derivative examples:
 
   ![alt text](resources/notes/04.png)
 
   ![alt text](resources/notes/05.png)
 
   ![alt text](resources/notes/06.png)
+
+- Notation:
 
   ![alt text](resources/notes/07.png)
 
