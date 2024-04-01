@@ -6,7 +6,8 @@
 >
 > In TensorFlow, you specify a neural network architecture, f<sub>W,B</sub>(x), and a loss function, L(f<sub>W,B</sub>(x),y). Adam then trains the network parameters using the **derivatives computed by back propagation**.
 
-- asdf
+- ∂J(w)/∂w = 6: If w goes up by a tiny little amount ε, J(w) goes up 6 times as much.
+
   ![alt text](resources/notes/01.png)
   ![alt text](resources/notes/02.png)
   ![alt text](resources/notes/03.png)
