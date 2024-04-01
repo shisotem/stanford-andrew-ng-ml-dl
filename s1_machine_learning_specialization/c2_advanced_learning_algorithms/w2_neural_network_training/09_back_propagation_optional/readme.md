@@ -12,6 +12,11 @@
 
 ## Computation graph (Optional)
 
+![alt text](resources/notes/08.png)
+![alt text](resources/notes/09.png)
+![alt text](resources/notes/10.png)
+![alt text](resources/notes/11.png)
+
 ## Larger neural network example (Optional)
 
 ## Optional Lab: Derivatives
