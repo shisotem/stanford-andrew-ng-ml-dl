@@ -28,15 +28,27 @@
 
 ## Computation graph (Optional)
 
-- asdf
+- Forward prop:
 
   ![alt text](resources/notes/08.png)
+
+- **Forward prop &rarr; (remember w, c, b, a, d) &rarr; Back prop**:
+
+  - **Chain rule**: ∂J/∂w = (((∂J/∂d) \* ∂d/∂a) \* ∂a/∂c) \* ∂c/∂w
 
   ![alt text](resources/notes/09.png)
 
   ![alt text](resources/notes/10.png)
 
   ![alt text](resources/notes/11.png)
+
+> [!NOTE]
+>
+> - 🤯 Numerical Differentiation: ∂J(w)/∂w = (J(w+ε) - J(w-ε)) / 2ε. For example, as ε=1<sup>-4</sup>.
+>
+> - 🤯 Symbolic Differentiation: both the input and output are **expressions**, not values. For instance, the derivative of x<sup>2</sup> with respect to x is 2x.
+>
+> - 😎 **Automatic Differentiation** (Back Propagation): use the **chain rule** to compute both derivatives **efficiently** and **accurately**.
 
 ## Larger neural network example (Optional)
 
