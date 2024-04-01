@@ -19,6 +19,10 @@
 
 ## Larger neural network example (Optional)
 
+![alt text](resources/notes/12.png)
+![alt text](resources/notes/13.png)
+![alt text](resources/notes/14.png)
+
 ## Optional Lab: Derivatives
 
 ## Optional Lab: Back propagation
