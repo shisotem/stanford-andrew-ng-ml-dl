@@ -58,7 +58,7 @@
 
 ## Larger neural network example (Optional)
 
-- asdf
+- Neural network example (**N+P** steps vs N\*P steps):
 
   ![alt text](resources/notes/12.png)
 
