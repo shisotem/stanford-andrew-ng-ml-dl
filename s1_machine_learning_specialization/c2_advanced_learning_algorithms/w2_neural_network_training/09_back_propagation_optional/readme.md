@@ -32,9 +32,11 @@
 
   ![alt text](resources/notes/08.png)
 
-- **Forward prop &rarr; (remember w, c, b, a, d) &rarr; Back prop**:
+- **Forward prop &rarr; (remember w, c, b, a, d, J) &rarr; Back prop**:
 
-  - **Chain rule**: ∂J/∂w = (((∂J/∂d) \* ∂d/∂a) \* ∂a/∂c) \* ∂c/∂w
+  - For example, if d increases from 2 to 2.001 (+0.001), then J increases from 2 to 2.0020005 (+0.002). Therefore, **∂J/∂d** = 2.
+
+  - **Chain rule**: ∂J/∂w = (((**∂J/∂d**) \* ∂d/∂a) \* ∂a/∂c) \* ∂c/∂w
 
   ![alt text](resources/notes/09.png)
 
