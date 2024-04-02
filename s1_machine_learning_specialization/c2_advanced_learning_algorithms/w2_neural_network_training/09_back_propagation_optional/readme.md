@@ -52,7 +52,7 @@
 >
 > - 🤯 Numerical Differentiation: ∂J(w)/∂w = (J(w+ε) - J(w-ε)) / 2ε. For example, as ε=1<sup>-4</sup>.
 >
-> - 🤯 Symbolic Differentiation: both the input and output are **expressions**, not values. For instance, the derivative of x<sup>2</sup> with respect to x is 2x.
+> - 🤯 Symbolic Differentiation: both the input and output are **expressions**, not values. For instance, the derivative of x<sup>2</sup> with respect to x is 2x. Once we have the derivative function, which in this case is 2x, we can calculate the derivative at a specific value, such as x=3.0.
 >
 > - 😎 **Automatic Differentiation** (Back Propagation): use the **chain rule** to compute both derivatives **efficiently** and **accurately**.
 
