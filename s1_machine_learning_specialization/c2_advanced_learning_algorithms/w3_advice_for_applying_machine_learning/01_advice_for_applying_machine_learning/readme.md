@@ -6,9 +6,9 @@
 
   - Avoid spending a long time collecting data only to realize later that it was pointless.
 
-  ![alt text](01.png)
+  ![alt text](resources/notes/01.png)
 
-  ![alt text](02.png)
+  ![alt text](resources/notes/02.png)
 
 ## Evaluating a model
 
