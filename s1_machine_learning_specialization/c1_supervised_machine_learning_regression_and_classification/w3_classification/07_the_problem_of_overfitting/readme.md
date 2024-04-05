@@ -12,7 +12,7 @@
 
     - Parameters make cost function zero (error is zero for each training example).
 
-    - Slight changes in training set drastically alter the applied function.
+    - Slight changes in the training set drastically alter the shape of the function.
 
     - **Works well on training set, but not on new examples**.
 
