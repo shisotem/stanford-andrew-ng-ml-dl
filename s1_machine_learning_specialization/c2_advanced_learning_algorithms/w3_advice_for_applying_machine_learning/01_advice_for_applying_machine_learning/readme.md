@@ -28,7 +28,7 @@
 
   ![alt text](resources/notes/04.png)
 
-- Using the model f<sub>w,b</sub>(x) trained only on the training set, calculate **training error J<sub>train</sub>(w,b)** and **test error J<sub>test</sub>(w,b)**.
+- Using the model f<sub>w,b</sub>(x) trained **only on the training set**, calculate **training error J<sub>train</sub>(w,b)** and **test error J<sub>test</sub>(w,b)**.
 
   ![alt text](resources/notes/05.png)
 
