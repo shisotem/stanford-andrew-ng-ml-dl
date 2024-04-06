@@ -48,4 +48,8 @@
 
 ## Model selection and training/cross validation/test sets
 
+- ([Generalization error](https://en.wikipedia.org/wiki/Generalization_error), also known as the out-of-sample error or the risk, is a measure of how accurately an algorithm is able to predict outcome values for previously **unseen data**.)
+
+  ![alt text](resources/notes/09.png)
+
 ## Optional Lab: Model Evaluation and Selection
