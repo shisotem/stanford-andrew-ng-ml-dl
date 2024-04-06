@@ -24,6 +24,12 @@
 
   ![alt text](resources/notes/03.png)
 
+- Splitting the dataset into ratios such as 70-30 or 80-20.
+
+  ![alt text](resources/notes/04.png)
+
+  ![alt text](resources/notes/05.png)
+
 ## Model selection and training/cross validation/test sets
 
 ## Optional Lab: Model Evaluation and Selection
