@@ -20,7 +20,7 @@
 
   - For x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, x<sub>4</sub> (multiple features):
 
-        - Firstly, it's inherently challenging to plot a four-dimensional function f(x).
+    - Firstly, it's inherently challenging to plot a four-dimensional function f(x).
 
   ![alt text](resources/notes/03.png)
 
