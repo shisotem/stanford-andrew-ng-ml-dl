@@ -18,7 +18,7 @@
 
   ![alt text](resources/notes/02.png)
 
-  - **Most** learning applications have **either high bias or high variance**, not both. However, in some **neural network** applications, you might unfortunately encounter **both issues simultaneously**.
+  - **Most** learning applications have either high bias or high variance, **not both**. However, in some **neural network** applications, you might unfortunately encounter **both issues simultaneously**.
 
   ![alt text](resources/notes/03.png)
 
