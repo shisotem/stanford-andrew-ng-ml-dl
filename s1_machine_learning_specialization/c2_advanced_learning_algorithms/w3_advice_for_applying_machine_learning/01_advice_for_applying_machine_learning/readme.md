@@ -54,19 +54,24 @@
 
 - Model selection on regression problems:
 
-  - (d=1 denotes fitting a first-order polynomial.)
+  - [Previous slide] Fit parameters w, b using the training set &rarr; The trained model is biased towards the training set &rarr; J<sub>train</sub>(w,b) < generalization error
+
+  - [Current slide] Select parameter d (degree of polynomial) using the test set &rarr; The chosen model is biased towards the test set &rarr; J<sub>test</sub>(w<sup><5></sup>,b<sup><5></sup>) < generalization error
 
   - Flawed procedure:
 
-    - (On the previous slide, we saw that if you were to fit w, b to the training data, then the training error J<sub>train</sub>(w,b) would be an overly optimistic estimate of the generalization error, meaning it's lower than the actual generalization error.)
-
-    - Similarly, it turns out that if you choose the parameter d using the test set, the test error J<sub>test</sub>(w<sup><5></sup>,b<sup><5></sup>) becomes an overly optimistic estimate of the generalization error, meaning it's lower than the actual generalization error.
+    - (d=1 denotes fitting a first-order polynomial.)
 
   ![alt text](resources/notes/10.png)
+
+  - Correct procedure:
 
   ![alt text](resources/notes/11.png)
   ![alt text](resources/notes/12.png)
   ![alt text](resources/notes/13.png)
+
+- Applicable to other models such as neural networks:
+
   ![alt text](resources/notes/14.png)
 
 ## Optional Lab: Model Evaluation and Selection
