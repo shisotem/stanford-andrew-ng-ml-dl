@@ -2,7 +2,7 @@
 
 ## Diagnosing bias and variance
 
-- The most powerful diagnostic that I know of and that I used for a lot of machine learning applications is one called bias and variance.
+- The **most powerful diagnostic** that I know of and have used for a lot of machine learning applications, is "bias and variance". This gives you very good guidance on **what to try next**.
 
 ## Regularization and bias/variance
 
