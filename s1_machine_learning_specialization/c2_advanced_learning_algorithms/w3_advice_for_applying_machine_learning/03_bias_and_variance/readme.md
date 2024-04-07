@@ -6,11 +6,11 @@
 
 - A systematic way to diagnose whether your algorithm has high bias or high variance, using **training and dev error** metrics (not depending on plotting):
 
-  - J<sub>train</sub> is high &rarr; high bias
+  - **J<sub>train</sub> is high** &rarr; high bias
 
   - J<sub>train</sub> is low & J<sub>cv</sub> is also pretty low &rarr; just right!
 
-  - J<sub>cv</sub> >> J<sub>train</sub> &rarr; high variance
+  - **J<sub>cv</sub> >> J<sub>train</sub>** &rarr; high variance
 
   ![alt text](resources/notes/01.png)
 
