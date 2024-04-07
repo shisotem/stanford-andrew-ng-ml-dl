@@ -10,7 +10,7 @@
 
   - J<sub>train</sub> is low & J<sub>cv</sub> is also pretty low &rarr; just right!
 
-  - J<sub>train</sub> << J<sub>cv</sub> &rarr; high variance
+  - J<sub>cv</sub> >> J<sub>train</sub> &rarr; high variance
 
   ![alt text](resources/notes/01.png)
 
