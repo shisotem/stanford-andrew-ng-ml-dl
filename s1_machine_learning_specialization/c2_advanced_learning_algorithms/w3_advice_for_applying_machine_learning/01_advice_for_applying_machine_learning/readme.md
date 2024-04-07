@@ -52,4 +52,16 @@
 
   ![alt text](resources/notes/09.png)
 
+- Model selection on regression problems:
+
+  - (d=1 denotes fitting a first-order polynomial.)
+
+  - Flawed procedure:
+
+    - (On the previous slide, we saw that if you were to fit w, b to the training data, then the training error J<sub>train</sub>(w,b) would be an overly optimistic estimate of the generalization error, meaning it's lower than the actual generalization error.)
+
+    - Similarly, it turns out that if you choose the parameter d using the test set, the test error J<sub>test</sub>(w<sup><5></sup>,b<sup><5></sup>) becomes an overly optimistic estimate of the generalization error, meaning it's lower than the actual generalization error.
+
+  ![alt text](resources/notes/10.png)
+
 ## Optional Lab: Model Evaluation and Selection
