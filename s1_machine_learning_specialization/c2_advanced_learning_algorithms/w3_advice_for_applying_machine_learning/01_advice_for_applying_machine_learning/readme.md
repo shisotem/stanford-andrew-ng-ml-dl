@@ -66,12 +66,20 @@
 
   - Correct procedure:
 
+    - Since **no decisions were made using the test set**, J<sub>test</sub>(w<sup><4></sup>,b<sup><4></sup>) will be a fair estimate of the generalization error of this model.
+
   ![alt text](resources/notes/11.png)
+
   ![alt text](resources/notes/12.png)
+
   ![alt text](resources/notes/13.png)
 
-- Applicable to other models such as neural networks:
+- Applicable to other types of models such as neural networks:
+
+  - Since this is a **classification problem** (handwritten digit recognition), the most common approach to compute J<sub>cv</sub> is to consider it as the **fraction** of cross-validation examples that the algorithm has **misclassified**.
 
   ![alt text](resources/notes/14.png)
+
+- While making decisions about the learning algorithm (like fitting parameters or choosing a model architecture), it's **best practice** to only use the training set and cross-validation set, and **not look at the test set at all**.
 
 ## Optional Lab: Model Evaluation and Selection
