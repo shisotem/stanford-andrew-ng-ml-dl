@@ -18,6 +18,14 @@
 
   ![alt text](resources/notes/02.png)
 
+  - **Most** learning applications have **either high bias or high variance**, not both. However, in some **neural network** applications, you might unfortunately encounter **both issues simultaneously**.
+
+  ![alt text](resources/notes/03.png)
+
+- When training machine learning algorithms, I almost always try to understand to what extent the algorithm has a problem with high bias (underfitting) or high variance (overfitting).
+
+  - This provides good guidance on how to improve the performance of the algorithm, as we will see later this week.
+
 ## Regularization and bias/variance
 
 ## Establishing a baseline level of performance
