@@ -64,4 +64,9 @@
 
   ![alt text](resources/notes/10.png)
 
+  ![alt text](resources/notes/11.png)
+  ![alt text](resources/notes/12.png)
+  ![alt text](resources/notes/13.png)
+  ![alt text](resources/notes/14.png)
+
 ## Optional Lab: Model Evaluation and Selection
