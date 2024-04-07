@@ -76,7 +76,7 @@
 
 - Applicable to other types of models such as neural networks:
 
-  - Since this is a **classification problem** (handwritten digit recognition), the most common approach to compute J<sub>cv</sub> is to consider it as the **fraction** of cross-validation examples that the algorithm has **misclassified**.
+  - (Note: Since this is a **classification problem** - handwritten digit recognition - the most common approach to compute J<sub>cv</sub> is to consider it as the **fraction** of cross-validation examples that the algorithm has **misclassified**.)
 
   ![alt text](resources/notes/14.png)
 
