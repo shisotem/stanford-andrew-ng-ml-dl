@@ -4,6 +4,16 @@
 
 - The **most powerful diagnostic** that I know of and have used for a lot of machine learning applications, is "bias and variance". This gives you very good guidance on **what to try next**.
 
+- Systematic way to diagnose whether your algorithm has high bias or high variance, using **training and dev error** metrics (not depending on plotting):
+
+  - J<sub>train</sub> is high &rarr; high bias
+
+  - J<sub>train</sub> is low & J<sub>cv</sub> is also pretty low &rarr; just right!
+
+  - J<sub>train</sub> << J<sub>cv</sub> &rarr; high variance
+
+  ![alt text](resources/notes/01.png)
+
 ## Regularization and bias/variance
 
 ## Establishing a baseline level of performance
