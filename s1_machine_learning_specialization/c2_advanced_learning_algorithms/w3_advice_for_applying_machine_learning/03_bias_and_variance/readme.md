@@ -28,6 +28,12 @@
 
 ## Regularization and bias/variance
 
+- How can you choose a good value of &lambda;?
+
+  ![alt text](resources/notes/04.png)
+
+  - This procedure is similar to choosing d (degree of polynomial) using cross-validation.
+
 ## Establishing a baseline level of performance
 
 ## Learning curves
