@@ -54,9 +54,9 @@
 
 - Model selection on regression problems:
 
-  - [Previous slide] Fit parameters w, b using the training set &rarr; The trained model is biased towards the training set &rarr; J<sub>train</sub>(w,b) < generalization error
+  - [Previous slide] Fit parameters w, b using the training set &rarr; The trained model is inclined towards the training set &rarr; J<sub>train</sub>(w,b) < generalization error
 
-  - [Current slide] Select parameter d (degree of polynomial) using the test set &rarr; The chosen model is biased towards the test set &rarr; J<sub>test</sub>(w<sup><5></sup>,b<sup><5></sup>) < generalization error
+  - [Current slide] Select parameter d (degree of polynomial) using the test set &rarr; The chosen model is inclined towards the test set &rarr; J<sub>test</sub>(w<sup><5></sup>,b<sup><5></sup>) < generalization error
 
   - Flawed procedure:
 
