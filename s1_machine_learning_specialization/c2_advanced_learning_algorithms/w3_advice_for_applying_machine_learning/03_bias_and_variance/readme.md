@@ -36,6 +36,10 @@
 
   ![alt text](resources/notes/05.png)
 
+  - Assess the cross-validation error for various &lambda;/d values, and choose the &lambda;/d that yields the lowest error for a hopefully good model.
+
+  ![alt text](resources/notes/06.png)
+
 ## Establishing a baseline level of performance
 
 ## Learning curves
