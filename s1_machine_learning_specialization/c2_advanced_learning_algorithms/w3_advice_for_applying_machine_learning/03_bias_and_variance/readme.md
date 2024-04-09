@@ -32,7 +32,7 @@
 
   ![alt text](resources/notes/04.png)
 
-  - This procedure is similar to the procedure to choose d (degree of polynomial) using cross-validation:
+  - This procedure is similar to the procedure to choose d (degree of polynomial) using cross-validation.
 
   ![alt text](resources/notes/05.png)
 
