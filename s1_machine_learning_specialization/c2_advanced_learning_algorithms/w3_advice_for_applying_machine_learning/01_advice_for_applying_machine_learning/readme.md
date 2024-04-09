@@ -42,7 +42,7 @@
 
   - there's an alternative, and perhaps **more common**, definition of J<sub>test</sub>(w,b) and J<sub>train</sub>(w,b):
 
-  - Rather than using logistic loss to compute test and training errors, it measures **the proportion of the test set and training set that the algorithm has misclassified**.
+    - Rather than using logistic loss to compute test and training errors, it measures **the proportion of the test set and training set that the algorithm has misclassified**.
 
   ![alt text](resources/notes/08.png)
 
