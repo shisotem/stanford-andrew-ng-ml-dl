@@ -72,6 +72,7 @@
 
     - **Before investing** a lot of effort into collecting more training data, **ensure** your learning algorithm doesn't have a **high bias**.
 
+  - If we could fit a **more complex** function than a straight line, we could expect significantly better results.
 
   ![alt text](resources/notes/11.png)
 
