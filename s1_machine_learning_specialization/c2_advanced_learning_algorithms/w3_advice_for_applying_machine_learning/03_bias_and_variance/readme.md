@@ -67,6 +67,9 @@
   ![alt text](resources/notes/10.png)
 
 - High bias (f<sub>w,b</sub>(x) = w<sub>1</sub>x + b):
+
+  - Given that this model is **too simple** (**high bias**), even if there is **more data**, both errors will just **plateau** and **J<sub>cv</sub> cannot approach the baseline level** of performance almost forever.
+
   ![alt text](resources/notes/11.png)
 
 ## Deciding what to try next revisited
