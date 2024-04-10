@@ -78,11 +78,11 @@
 
 - High variance (f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + w<sub>3</sub>x<sup>3</sup> + w<sub>4</sub>x<sup>4</sup> + b):
 
-  - The baseline may occasionally be higher than the training error, or might be slightly lower than the training error.
+  - The baseline may occasionally be higher than J<sub>train</sub>, or might be slightly lower than J<sub>train</sub>.
 
-    - If the model is overfitting to the training set, the training error may become unrealistically small, and it may perform better than a human's ability to predict housing prices.
+    - If the model is overfitting to the training set, J<sub>train</sub> may become unrealistically small, and it may perform better than a human's ability to predict housing prices.
 
-  - In this example, simply by obtaining more training data, we can bring the cross-validation error significantly closer to the baseline.
+  - In this example (**high variance**), simply by obtaining **more training data**, we can bring **J<sub>cv</sub> significantly closer to the baseline.**
 
   ![alt text](resources/notes/12.png)
 
