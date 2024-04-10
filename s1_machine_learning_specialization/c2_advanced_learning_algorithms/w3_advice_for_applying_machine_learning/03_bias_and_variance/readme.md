@@ -90,7 +90,7 @@
 
 ## Deciding what to try next revisited
 
-- When training a learning algorithm, I **routinely** examine J<sub>train</sub> and J<sub>cv</sub> to determine if the algorithm has high bias or high variance. This gives me very good guidance on what to try next.
+- When training a learning algorithm, **I routinely** examine J<sub>train</sub> and J<sub>cv</sub> to determine if the algorithm has high bias or high variance. This gives me very good guidance on what to try next.
 
 ## Bias/variance and neural networks
 
