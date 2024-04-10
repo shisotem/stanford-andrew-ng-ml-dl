@@ -42,6 +42,14 @@
 
 ## Establishing a baseline level of performance
 
+- asdf
+
+  ![alt text](resources/notes/07.png)
+
+  ![alt text](resources/notes/08.png)
+
+  ![alt text](resources/notes/09.png)
+
 ## Learning curves
 
 ## Deciding what to try next revisited
