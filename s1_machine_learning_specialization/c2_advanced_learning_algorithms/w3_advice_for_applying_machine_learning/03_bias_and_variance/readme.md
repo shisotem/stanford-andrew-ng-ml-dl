@@ -86,7 +86,7 @@
 
   ![alt text](resources/notes/12.png)
 
-- Due to the **high computational cost**, it's not done very often, but by increasing m<sub>train</sub> to 100, 200, etc., and plotting J<sub>train</sub> and J<sub>cv</sub>, you might gain some insights from learning curves.
+- Due to the high computational cost, it's not done very often, but by increasing m<sub>train</sub> to 100, 200, etc., and plotting J<sub>train</sub> and J<sub>cv</sub>, you might gain some insights from learning curves.
 
 ## Deciding what to try next revisited
 
