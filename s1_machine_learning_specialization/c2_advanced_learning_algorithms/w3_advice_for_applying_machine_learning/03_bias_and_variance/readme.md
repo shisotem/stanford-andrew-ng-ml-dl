@@ -58,7 +58,7 @@
 
 ## Learning curves
 
-- Learning curves (For f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + b):
+- Learning curves (for f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + b):
 
   - It may not be surprising that as the training set size gets bigger, the model improves and so the cross-validation error goes down.
 
@@ -75,6 +75,18 @@
   - If we could fit a **more complex** function than a straight line, we could expect significantly better results.
 
   ![alt text](resources/notes/11.png)
+
+- High variance (f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + w<sub>3</sub>x<sup>3</sup> + w<sub>4</sub>x<sup>4</sup> + b):
+
+  - The baseline may occasionally be higher than the training error, or might be slightly lower than the training error.
+
+    - If the model is overfitting to the training set, the training error may become unrealistically small, and it may perform better than a human's ability to predict housing prices.
+
+  - In this example, simply by obtaining more training data, we can bring the cross-validation error significantly closer to the baseline.
+
+  ![alt text](resources/notes/12.png)
+
+- Due to the high computational cost, it's not done very often, but by increasing m<sub>train</sub> to 100, 200, etc., and plotting J<sub>train</sub> and J<sub>cv</sub>, you might gain some insights.
 
 ## Deciding what to try next revisited
 
