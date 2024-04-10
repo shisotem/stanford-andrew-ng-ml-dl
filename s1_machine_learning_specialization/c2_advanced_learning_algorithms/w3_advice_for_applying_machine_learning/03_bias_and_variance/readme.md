@@ -48,6 +48,8 @@
 
   ![alt text](resources/notes/07.png)
 
+- **Baseline level of performance** refers to the level of error that you can reasonably expect your learning algorithm to eventually achieve.
+
   ![alt text](resources/notes/08.png)
 
   ![alt text](resources/notes/09.png)
