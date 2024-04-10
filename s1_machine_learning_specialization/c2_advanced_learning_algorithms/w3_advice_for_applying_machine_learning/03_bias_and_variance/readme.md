@@ -58,7 +58,7 @@
 
 ## Learning curves
 
-- Learning curves (For f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + b):
+- Learning curves (for f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + b):
 
   - It may not be surprising that as the training set size gets bigger, the model improves and so the cross-validation error goes down.
 
