@@ -42,7 +42,9 @@
 
 ## Establishing a baseline level of performance
 
-- asdf
+- If even a human makes a 10.6% error, then it seems difficult to expect a learning algorithm to perform significantly better than it.
+
+  - J<sub>train</sub>=10.8% means that your model accurately transcribes 89.2% of your training set, but makes errors in the remaining 10.8%.
 
   ![alt text](resources/notes/07.png)
 
