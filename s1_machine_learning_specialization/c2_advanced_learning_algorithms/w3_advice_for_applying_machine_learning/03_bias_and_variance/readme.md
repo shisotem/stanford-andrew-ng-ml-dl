@@ -70,6 +70,9 @@
 
   - Given that this model is **too simple** (**high bias**), even if there is **more data**, both errors will just **plateau** and **J<sub>cv</sub> cannot approach the baseline level** of performance almost forever.
 
+    - **Before investing** a lot of effort into collecting more training data, **ensure** your learning algorithm doesn't have a **high bias**.
+
+
   ![alt text](resources/notes/11.png)
 
 ## Deciding what to try next revisited
