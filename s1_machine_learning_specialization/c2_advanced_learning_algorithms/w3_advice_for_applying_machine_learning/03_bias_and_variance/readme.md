@@ -52,6 +52,8 @@
 
   ![alt text](resources/notes/08.png)
 
+- (Note: There are occasional cases where the baseline level is 0%.)
+
   ![alt text](resources/notes/09.png)
 
 ## Learning curves
