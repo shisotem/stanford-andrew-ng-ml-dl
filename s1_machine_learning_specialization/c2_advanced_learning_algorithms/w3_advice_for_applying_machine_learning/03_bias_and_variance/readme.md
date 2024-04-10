@@ -58,13 +58,16 @@
 
 ## Learning curves
 
-- Learning curves (for f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + b):
+- Learning curves (For f<sub>w,b</sub>(x) = w<sub>1</sub>x + w<sub>2</sub>x<sup>2</sup> + b):
 
   - It may not be surprising that as the training set size gets bigger, the model improves and so the cross-validation error goes down.
 
   - The cross-validation error will typically be higher than the training error, as the parameters are fitted to the training set.
 
   ![alt text](resources/notes/10.png)
+
+- High bias (f<sub>w,b</sub>(x) = w<sub>1</sub>x + b):
+  ![alt text](resources/notes/11.png)
 
 ## Deciding what to try next revisited
 
