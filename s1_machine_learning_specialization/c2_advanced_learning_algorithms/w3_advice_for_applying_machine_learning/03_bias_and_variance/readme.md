@@ -118,6 +118,7 @@
 
 - Note: A smaller training set size leads to a decrease in J<sub>train</sub> but an increase in J<sub>cv</sub>, i.e., it worsens algorithm performance. **Don't discard training examples** to fix high bias.
 
+- The concepts of bias and variance are easy to grasp initially, but mastering them requires a lifetime. **Consistent practice is essential for mastery.**
 
 ## Bias/variance and neural networks
 
