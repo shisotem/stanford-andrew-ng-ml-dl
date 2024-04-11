@@ -98,6 +98,12 @@
 
   - By reducing the number of features that are not helpful or somewhat redundant in predicting housing prices, you can prevent overfitting.
 
+- Try getting additional features:
+
+  - If you're predicting housing prices based solely on size, but price also depends on factors like number of bedrooms, floors, and house age, the algorithm won't perform well without these additional features.
+
+  ![alt text](resources/notes/13.png)
+
 ## Bias/variance and neural networks
 
 ## Optional Lab: Diagnosing Bias and Variance
