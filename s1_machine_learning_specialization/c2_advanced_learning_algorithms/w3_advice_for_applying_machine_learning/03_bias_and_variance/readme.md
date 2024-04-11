@@ -126,5 +126,6 @@
 
   ![alt text](resources/notes/14.png)
 
+- But today, neural networks, when linked with **big data**, can address both high bias and high variance in a new way.
 
 ## Optional Lab: Diagnosing Bias and Variance
