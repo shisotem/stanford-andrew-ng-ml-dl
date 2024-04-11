@@ -126,6 +126,7 @@
 
   ![alt text](resources/notes/14.png)
 
-- But today, **neural networks**, when linked with **big data**, can address both high bias and high variance in a new way (not bias-variance tradeoff).
+- But today, **neural networks**, when linked with **big data**, can address both high bias and high variance in a new way (not tradeoff).
+
 
 ## Optional Lab: Diagnosing Bias and Variance
