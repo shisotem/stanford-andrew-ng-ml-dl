@@ -122,4 +122,9 @@
 
 ## Bias/variance and neural networks
 
+- Before the days of neural networks, ML engineers talked a lot about **bias-variance tradeoff** in which you have to balance d and &lambda; to make bias and variance both not be too high.
+
+  ![alt text](resources/notes/14.png)
+
+
 ## Optional Lab: Diagnosing Bias and Variance
