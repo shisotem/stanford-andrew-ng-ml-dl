@@ -104,6 +104,11 @@
 
   ![alt text](resources/notes/13.png)
 
+> [!IMPORTANT]
+>
+> - For high bias:
+>
+>   - Use a more powerful or complex model (add more features, include polynomial features, or decrease &lambda;)
 ## Bias/variance and neural networks
 
 ## Optional Lab: Diagnosing Bias and Variance
