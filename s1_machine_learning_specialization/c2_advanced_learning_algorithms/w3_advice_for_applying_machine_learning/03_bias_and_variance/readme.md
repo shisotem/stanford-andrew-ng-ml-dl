@@ -116,6 +116,9 @@
 >
 >   - Simplify the model (reduce features, exclude polynomial features, or increase &lambda;)
 
+- Note: A smaller training set size leads to a decrease in J<sub>train</sub> but an increase in J<sub>cv</sub>, i.e., it worsens algorithm performance. **Don't discard training examples** to fix high bias.
+
+
 ## Bias/variance and neural networks
 
 ## Optional Lab: Diagnosing Bias and Variance
