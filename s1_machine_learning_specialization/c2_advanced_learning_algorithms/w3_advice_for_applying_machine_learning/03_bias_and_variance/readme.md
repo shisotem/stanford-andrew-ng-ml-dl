@@ -92,13 +92,13 @@
 
 - When training a learning algorithm, **I routinely** examine J<sub>train</sub> and J<sub>cv</sub> to determine if the algorithm has high bias or high variance. This gives me very good guidance on what to try next.
 
-- Try smaller sets of features:
+- "Try smaller sets of features":
 
   - (Just like when the degree of the polynomial is too high,) if your learning algorithm has too many features, it gives your algorithm too much flexibility to fit very complicated models.
 
   - By reducing the number of features that are not helpful or somewhat redundant in predicting housing prices, you can prevent overfitting.
 
-- Try getting additional features:
+- "Try getting additional features":
 
   - If you're predicting housing prices based solely on size, but price also depends on factors like number of bedrooms, floors, and house age, the algorithm won't perform well without these additional features.
 
