@@ -2,7 +2,7 @@
 
 ## Diagnosing bias and variance
 
-- The **most powerful diagnostic** that I know of and have used for a lot of machine learning applications, is "bias and variance". This gives you very good guidance on **what to try next**.
+- **The most powerful diagnostic** that I know of and have used for a lot of machine learning applications, is **"bias and variance"**. This gives you very good guidance on **what to try next**.
 
 - A systematic way to diagnose whether your algorithm has high bias or high variance, using **training and dev error** metrics (not depending on plotting):
 
