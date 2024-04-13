@@ -132,6 +132,11 @@
 
 - (If applicable) A very powerful procedure:
 
+  - Limitations:
+
+    - Even with GPUs, once the neural network becomes large beyond a certain point, it gets computationally expensive and takes so long to train that it becomes infeasible.
+
+
   ![alt text](resources/notes/15.png)
 
   ![alt text](resources/notes/16.png)
