@@ -126,7 +126,9 @@
 
   ![alt text](resources/notes/14.png)
 
-- (So long as your training set is **not enormous**,) if you **make** your neural network **large** enough, you can **lower bias**, i.e, you can almost always **fit** your **training set** well.
+- (As long as your **training set is not enormous**,) **if you make your neural network large enough, you can lower bias, i.e, you can almost always fit your training set well.**
+
+  - "I'm often fighting **variance problems** rather than bias problems, at least if the neural network is large enough."
 
   - This property leads to a new way to reduce bias or reduce variance **as needed** without needing to really tradeoff between them.
 
