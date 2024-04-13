@@ -126,9 +126,16 @@
 
   ![alt text](resources/notes/14.png)
 
-- But today, **neural networks**, when linked with **big data**, can address both high bias and high variance in a new way (not tradeoff).
+- (So long as your training set is **not enormous**,) if you **make** your neural network **large** enough, you can **lower bias**, i.e, you can almost always **fit** your **training set** well.
 
-- So long as your training set is **not enormous**, it turns out that **large** neural networks are **low bias** machines, i.e, you can almost always fit your **training set** well.
+  - This property leads to a new way to reduce bias or reduce variance **as needed** without needing to really tradeoff between them.
 
+- (If applicable) A very powerful procedure:
+
+  ![alt text](resources/notes/15.png)
+
+  ![alt text](resources/notes/16.png)
+
+  ![alt text](resources/notes/17.png)
 
 ## Optional Lab: Diagnosing Bias and Variance
