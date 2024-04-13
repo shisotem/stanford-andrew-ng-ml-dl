@@ -130,7 +130,7 @@
 
   - "I'm often fighting **variance problems** rather than bias problems, at least if the neural network is large enough."
 
-  - This property leads to a new way to reduce bias or reduce variance **as needed** without needing to really tradeoff between them.
+  - Let's look at a new way to reduce bias or reduce variance **as needed** without needing to really tradeoff between them.
 
 - (If applicable) A very powerful procedure:
 
