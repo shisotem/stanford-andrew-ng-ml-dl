@@ -156,4 +156,6 @@
 
   ![alt text](resources/notes/17.png)
 
+- Even when you're training a neural network, measuring bias and variance can be very helpful to determine your next actions.
+
 ## Optional Lab: Diagnosing Bias and Variance
