@@ -152,6 +152,8 @@
 
   ![alt text](resources/notes/16.png)
 
+- (It's also possible to choose different values of &lambda; for each layer.)
+
   ![alt text](resources/notes/17.png)
 
 ## Optional Lab: Diagnosing Bias and Variance
