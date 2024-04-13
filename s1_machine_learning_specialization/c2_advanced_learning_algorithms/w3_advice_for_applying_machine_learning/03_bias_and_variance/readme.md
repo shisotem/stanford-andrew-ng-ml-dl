@@ -136,6 +136,8 @@
 
     - Even with GPUs, once the neural network becomes large beyond a certain point, it gets computationally expensive and takes so long to train that it becomes infeasible.
 
+    - Sometimes, beyond a certain point it's hard to get much more data.
+
 
   ![alt text](resources/notes/15.png)
 
