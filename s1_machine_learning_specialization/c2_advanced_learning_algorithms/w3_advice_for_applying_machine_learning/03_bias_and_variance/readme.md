@@ -138,6 +138,7 @@
 
     - Sometimes, beyond a certain point it's hard to get much more data.
 
+  - (However, I think this slide explains much of the rise of **DL** with **big data** in recent years!)
 
   ![alt text](resources/notes/15.png)
 
