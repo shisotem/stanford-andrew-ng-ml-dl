@@ -144,6 +144,10 @@
 
   ![alt text](resources/notes/15.png)
 
+- Q. Won't an overly large neural network cause a serious high variance problem?
+
+  - As long as it is properly regularized, a large neural network will perform as well as or better than a small one. In other words, **increasing the size of the neural network usually doesn't have negative effects, provided that appropriate regularization is applied**.
+
   ![alt text](resources/notes/16.png)
 
   ![alt text](resources/notes/17.png)
