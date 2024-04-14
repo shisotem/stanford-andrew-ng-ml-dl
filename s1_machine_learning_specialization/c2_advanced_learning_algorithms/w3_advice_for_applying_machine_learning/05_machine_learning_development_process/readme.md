@@ -12,7 +12,15 @@
 
 - Spam classifier (**text classification**):
 
+- There are many ways to construct a feature vector:
+
+  - Check whether a word appears or not.
+
   ![alt text](resources/notes/03.png)
+
+  - Or, count the number of times a word appears.
+
+  ![alt text](resources/notes/04.png)
 
 ## Error analysis
 
