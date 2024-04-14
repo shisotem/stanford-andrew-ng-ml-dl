@@ -10,6 +10,10 @@
 
   ![alt text](resources/notes/02.png)
 
+- Spam classifier (**text classification**):
+
+  ![alt text](resources/notes/03.png)
+
 ## Error analysis
 
 ## Adding data
