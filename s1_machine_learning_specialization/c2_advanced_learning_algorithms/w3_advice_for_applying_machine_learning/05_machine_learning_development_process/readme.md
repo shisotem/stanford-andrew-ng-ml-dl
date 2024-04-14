@@ -24,6 +24,10 @@
 
   - (Given these features, you can then train a classification algorithm such as a logistic regression or a neural network.)
 
+- Multiple ideas for improving the learning algorithm's performance:
+
+  - "Honey pot" project: Generate numerous fake email addresses to lure and collect a substantial amount of spam emails.
+
 ## Error analysis
 
 ## Adding data
