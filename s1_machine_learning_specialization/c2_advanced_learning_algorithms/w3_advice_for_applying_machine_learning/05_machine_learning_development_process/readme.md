@@ -28,6 +28,8 @@
 
   - "Honey pot" project: Generate numerous fake email addresses to lure and collect a substantial amount of spam emails.
 
+  - Emails contain header information, which includes details about email routing. Sometimes, the path that an email has traveled can help determine whether it was sent by a spammer or not.
+
 ## Error analysis
 
 ## Adding data
