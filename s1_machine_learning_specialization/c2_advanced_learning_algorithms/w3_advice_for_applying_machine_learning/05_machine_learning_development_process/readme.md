@@ -30,6 +30,10 @@
 
   - Emails contain header information, which includes details about email routing. Sometimes, the path that an email has traveled can help determine whether it was sent by a spammer or not.
 
+  ![alt text](resources/notes/05.png)
+
+- Given all of these and possibly even more ideas, how can you decide which of these ideas are more promising to work on? &rarr; bias/variance, error analysis
+
 ## Error analysis
 
 ## Adding data
