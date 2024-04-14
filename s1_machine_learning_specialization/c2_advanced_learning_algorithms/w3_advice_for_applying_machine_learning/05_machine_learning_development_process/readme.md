@@ -6,6 +6,10 @@
 
   ![alt text](resources/notes/01.png)
 
+- Spam vs. Non-spam example:
+
+  ![alt text](resources/notes/02.png)
+
 ## Error analysis
 
 ## Adding data
