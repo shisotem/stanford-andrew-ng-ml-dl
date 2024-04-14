@@ -22,6 +22,8 @@
 
   ![alt text](resources/notes/04.png)
 
+  - (Given these features, you can then train a classification algorithm such as a logistic regression or a neural network.)
+
 ## Error analysis
 
 ## Adding data
