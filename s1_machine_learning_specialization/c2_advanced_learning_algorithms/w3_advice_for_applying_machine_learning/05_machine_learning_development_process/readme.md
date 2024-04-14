@@ -32,7 +32,7 @@
 
   ![alt text](resources/notes/05.png)
 
-- Given all of these and possibly even more ideas, how can you decide which of these ideas are more promising to work on? &rarr; bias/variance, error analysis
+- Given all of these and possibly even more ideas, how can you decide which ones are more promising? &rarr; **bias/variance**, **error analysis**
 
 ## Error analysis
 
