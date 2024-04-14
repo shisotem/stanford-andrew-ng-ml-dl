@@ -34,6 +34,8 @@
 
 - Given all of these and possibly even more ideas, how can you decide which ones are more promising? &rarr; **bias/variance**, **error analysis**
 
+  ![alt text](resources/notes/06.png)
+
 ## Error analysis
 
 ## Adding data
